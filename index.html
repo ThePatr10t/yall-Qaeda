@@ -67,7 +67,7 @@
 
     <script>
       var map;
-      var src = 'https://thepatr10t.github.io/yall-Qaeda/DC19.kml';
+      var src = 'https://thepatr10t.github.io/yall-Qaeda/DC20.kml';
 
       function initMap() {
         map = new google.maps.Map(document.getElementById('map'), {
@@ -82,11 +82,24 @@
           map: map
         });
         kmlLayer.addListener('click', function(event) {
-          var content = event.featureData.infoWindowHtml;
-console.log(event);
-//var content = '<iframe frameborder="0" width="640" height="360" src="https://www.dailymotion.com/embed/video/x7ynacd"; allowfullscreen allow="autoplay"></iframe>'
-          var testimonial = document.getElementById('capture');
-          testimonial.innerHTML = content;
+		var content;// = event.featureData.infoWindowHtml;
+		var content = event.featureData.name;
+
+		if('snippet' in event.featureData){
+			var s = event.featureData.snippet;
+			if(s.includes("dailymotion")){
+				content = '<iframe frameborder="0" width="640" height="360" src="'+s+'?queue-enable=false"; allowfullscreen allow="autoplay"></iframe>';
+			}
+			if(s.includes("youtube")){
+				content = '<iframe width="800" height="600" src="'+s+'" frameborder="0" allowfullscreen></iframe>'
+			}
+		}
+		console.log(content);
+
+		console.log(event);
+		//var content = '<iframe frameborder="0" width="640" height="360" src="https://www.dailymotion.com/embed/video/x7ynacd"; allowfullscreen allow="autoplay"></iframe>'
+		var testimonial = document.getElementById('capture');
+		testimonial.innerHTML = content;
         });
       }
     </script>
