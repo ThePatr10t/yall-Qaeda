@@ -67,7 +67,7 @@
 
     <script>
       var map;
-      var src = 'https://thepatr10t.github.io/yall-Qaeda/DC16.kml';
+      var src = 'https://thepatr10t.github.io/yall-Qaeda/DC17.kml';
 
       function initMap() {
         map = new google.maps.Map(document.getElementById('map'), {
@@ -83,11 +83,15 @@
         });
         kmlLayer.addListener('click', function(event) {
           var content = event.featureData.infoWindowHtml;
+console.log(content);
+//var content = '<iframe frameborder="0" width="640" height="360" src="https://www.dailymotion.com/embed/video/x7ynacd"; allowfullscreen allow="autoplay"></iframe>'
           var testimonial = document.getElementById('capture');
           testimonial.innerHTML = content;
         });
       }
     </script>
+
+
 
 
     <script defer
