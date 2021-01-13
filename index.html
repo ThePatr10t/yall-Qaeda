@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+
+    <meta property="og:image" content="https://thepatr10t.github.io/yall-Qaeda/yqs.png">
+    <meta property="og:title" content="Y'all Qaeda!">
+    <meta property="og:description" content="Mapping videos during the capitol seige">
+    <meta property="og:image:width" content="1600">
+    <meta property="og:image:height" content="1200">
+
+    <title>Y'all Qaeda - Mapping videos of the capitol seige</title>
+    <style>
+      html, body {
+        height: 90%;
+        padding: 0;
+        margin: 0;
+	width: 100%;
+        }
+      #map {
+       height: 100%;
+       width: 50%;
+       overflow: hidden;
+       float: left;
+       border: thin solid #333;
+       }
+      #capture {
+       height: 100%;
+       width: 45%;
+       overflow: hidden;
+       float: left;
+       background-color: #ECECFB;
+       border: thin solid #333;
+       border-left: none;
+       }
+
+	#c {
+		width: 100%;
+		margin: 0 auto;
+		height: 90%;
+	}
+
+    </style>
+  </head>
+  <body>
+
+<center>
+<h1> Y'All Qaeda y'know ... </h1>
+<h3>Mapping the videos of the Capitol building attack</h3>
+</center>
+<b><h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hint : click the red markers! New ones are being uploaded slowly....</h2></b>
+
+<div id="c">
+	<div id="map"></div>
+	<div id="capture"></div>
+	<br>
+</div>
+<h2>Built by Patr10tic</h2>
+
+    <script>
+      var map;
+      var src = 'https://thepatr10t.github.io/yall-Qaeda/DC14.kml';
+
+      function initMap() {
+        map = new google.maps.Map(document.getElementById('map'), {
+          center: new google.maps.LatLng(38.8935128, -77.1546603),
+          zoom: 2,
+          mapTypeId: 'satellite'
+        });
+
+        var kmlLayer = new google.maps.KmlLayer(src, {
+          suppressInfoWindows: true,
+          preserveViewport: false,
+          map: map
+        });
+        kmlLayer.addListener('click', function(event) {
+          var content = event.featureData.infoWindowHtml;
+          var testimonial = document.getElementById('capture');
+          testimonial.innerHTML = content;
+        });
+      }
+    </script>
+
+<iframe src="https://player.vimeo.com/video/499889424?color=fdeb1d&amp;title=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+    <script defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAAFYwkWgVLa5lKgfh0OHqWS8PiXGTfJf8&callback=initMap">
+    </script>
+
+
+  </body>
+</html>
