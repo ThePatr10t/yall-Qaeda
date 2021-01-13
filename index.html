@@ -83,7 +83,7 @@
         });
         kmlLayer.addListener('click', function(event) {
           var content = event.featureData.infoWindowHtml;
-console.log(content);
+console.log(event);
 //var content = '<iframe frameborder="0" width="640" height="360" src="https://www.dailymotion.com/embed/video/x7ynacd"; allowfullscreen allow="autoplay"></iframe>'
           var testimonial = document.getElementById('capture');
           testimonial.innerHTML = content;
