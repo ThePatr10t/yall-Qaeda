@@ -39,49 +39,50 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>0ILtbKNKST48</name>
-        <Point><coordinates>-77.0100971239,38.8898094506,0</coordinates></Point>
+        <Point><coordinates>-77.0101076114,38.8898027515,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>0RkqluQmLWCt</name>
-        <Point><coordinates>-77.0083090448,38.8907053525,0</coordinates></Point>
+        <Point><coordinates>-77.008293982,38.8906949425,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>4CgvVPwmomjo</name>
-        <Point><coordinates>-77.0103045917,38.8899027477,0</coordinates></Point>
+        <Point><coordinates>-77.0102977175,38.8899022708,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>50XYMR09ys3v</name>
-        <Point><coordinates>-77.0098923283,38.8900982342,0</coordinates></Point>
+        <Point><coordinates>-77.009897195,38.8900981441,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>58lWitKHBAbq</name>
-        <Point><coordinates>-77.0105051301,38.8898065994,0</coordinates></Point>
+        <Point><coordinates>-77.0105049944,38.8897986456,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>5Yf5w5tiLIDB</name>
-        <Point><coordinates>-77.0071934868,38.8899976641,0</coordinates></Point>
+        <Point><coordinates>-77.0071937823,38.8900092379,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>6FY6c0d8IMjz</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0102977341,38.8896939513,0</coordinates></Point>
+		<Point><coordinates>-77.0102966015,38.8897009924,0</coordinates></Point>
+		<description>https://youtu.be/or1L4ZVNghI</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/or1L4ZVNghI" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -91,7 +92,8 @@
 	      <Placemark>
 		<name>6JbG6I0FrJhn</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0102912181,38.8898091235,0</coordinates></Point>
+		<Point><coordinates>-77.0102983662,38.8897986747,0</coordinates></Point>
+		<description>https://youtu.be/V617FSr4bOw</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/V617FSr4bOw" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -101,63 +103,64 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>8dLyJxfRn3cI</name>
-        <Point><coordinates>-77.0102930857,38.8900080281,0</coordinates></Point>
+        <Point><coordinates>-77.0103020026,38.8899909125,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>8fGidwR3eLor</name>
-        <Point><coordinates>-77.0103000039,38.8906042419,0</coordinates></Point>
+        <Point><coordinates>-77.0103015477,38.8906012629,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>9quKY3UvWlvg</name>
-        <Point><coordinates>-77.0108077372,38.8894901896,0</coordinates></Point>
+        <Point><coordinates>-77.0107971647,38.8894981867,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>A6nbSYGTQ2hW</name>
-        <Point><coordinates>-77.0105099916,38.8900995663,0</coordinates></Point>
+        <Point><coordinates>-77.0104917564,38.8901085034,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>AdArLzDy1ObS</name>
-        <Point><coordinates>-77.0101913421,38.8896933485,0</coordinates></Point>
+        <Point><coordinates>-77.0102039757,38.8896983337,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>B0FxCurP0DbS</name>
-        <Point><coordinates>-77.0103068452,38.8902080467,0</coordinates></Point>
+        <Point><coordinates>-77.0102972249,38.8901950193,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>BKzCTrgUan1v</name>
-        <Point><coordinates>-77.0105014375,38.8896977802,0</coordinates></Point>
+        <Point><coordinates>-77.0104980548,38.8897037722,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>C5u7WZz0ibfe</name>
-        <Point><coordinates>-77.0103039056,38.889508589,0</coordinates></Point>
+        <Point><coordinates>-77.0102973677,38.8895069973,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>CE7LhOl22vJ9</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0075959391,38.8899961831,0</coordinates></Point>
+		<Point><coordinates>-77.0075956201,38.8899943763,0</coordinates></Point>
+		<description>https://youtu.be/cO-Pp7mtT8Y</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/cO-Pp7mtT8Y" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -167,21 +170,22 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>CNrWBNcfCr8w</name>
-        <Point><coordinates>-77.0103099757,38.8903929364,0</coordinates></Point>
+        <Point><coordinates>-77.0103011641,38.8903994932,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>HErrRC01EIav</name>
-        <Point><coordinates>-77.0093922416,38.8903991859,0</coordinates></Point>
+        <Point><coordinates>-77.0094062,38.8903916573,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>HS34fpbzqg2b</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0078991009,38.8907020316,0</coordinates></Point>
+		<Point><coordinates>-77.0078917131,38.8906998661,0</coordinates></Point>
+		<description>https://youtu.be/C-ZPAGrhw6I</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/C-ZPAGrhw6I" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -191,14 +195,15 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>HX07G51QKPEx</name>
-        <Point><coordinates>-77.0103045686,38.8901045235,0</coordinates></Point>
+        <Point><coordinates>-77.0102965859,38.8901039737,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>IOqrjPvbQx6s</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0103063359,38.8896994051,0</coordinates></Point>
+		<Point><coordinates>-77.0102948109,38.8896923003,0</coordinates></Point>
+		<description>https://youtu.be/o2titsRYSkg</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/o2titsRYSkg" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -208,7 +213,8 @@
 	      <Placemark>
 		<name>Kmm034ViQJyl</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.010602983,38.889800478,0</coordinates></Point>
+		<Point><coordinates>-77.0105969897,38.8897917465,0</coordinates></Point>
+		<description>https://youtu.be/HYvH2XiPuLU</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/HYvH2XiPuLU" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -218,7 +224,8 @@
 	      <Placemark>
 		<name>LhPiDTMhUSGL</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0099960742,38.8900050599,0</coordinates></Point>
+		<Point><coordinates>-77.0099952808,38.8900009417,0</coordinates></Point>
+		<description>https://youtu.be/UfIlXpLsY1g</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/UfIlXpLsY1g" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -228,7 +235,8 @@
 	      <Placemark>
 		<name>OcH04ImVxWii</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0093049252,38.8903055276,0</coordinates></Point>
+		<Point><coordinates>-77.0093003919,38.8902994626,0</coordinates></Point>
+		<description>https://youtu.be/t421erWVC3c</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/t421erWVC3c" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -238,7 +246,8 @@
 	      <Placemark>
 		<name>QjvAsHJ5o501</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0082044206,38.8913072299,0</coordinates></Point>
+		<Point><coordinates>-77.0081988483,38.8912987569,0</coordinates></Point>
+		<description>https://youtu.be/APiC5kzM_yg</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/APiC5kzM_yg" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -248,259 +257,260 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>RfmiOsck22e4</name>
-        <Point><coordinates>-77.0106046903,38.890208931,0</coordinates></Point>
+        <Point><coordinates>-77.0105973649,38.8902033904,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>UJcZiDdVVVUG</name>
-        <Point><coordinates>-77.0070994374,38.8893985531,0</coordinates></Point>
+        <Point><coordinates>-77.0071017381,38.8894023729,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>Wp7B67DcwpQi</name>
-        <Point><coordinates>-77.0081911769,38.891304122,0</coordinates></Point>
+        <Point><coordinates>-77.0082060905,38.8913067719,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>WvNy0mY8LFTq</name>
-        <Point><coordinates>-77.0081082623,38.8898061108,0</coordinates></Point>
+        <Point><coordinates>-77.0081074888,38.8898099783,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>Xg6g1UKjAOdd</name>
-        <Point><coordinates>-77.0090009139,38.8893933711,0</coordinates></Point>
+        <Point><coordinates>-77.008992604,38.8894031658,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>Yv60aO8hsb4H</name>
-        <Point><coordinates>-77.0074076449,38.8902975618,0</coordinates></Point>
+        <Point><coordinates>-77.0074084456,38.8903086774,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>adtV4zbkXr5x</name>
-        <Point><coordinates>-77.0104054111,38.8901912231,0</coordinates></Point>
+        <Point><coordinates>-77.0103905664,38.8902059058,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>ayocSVsXW3h3</name>
-        <Point><coordinates>-77.0104979841,38.8900941364,0</coordinates></Point>
+        <Point><coordinates>-77.0104924786,38.890094973,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>b5lCVIHnrm2q</name>
-        <Point><coordinates>-77.0104047876,38.8899929402,0</coordinates></Point>
+        <Point><coordinates>-77.0104068135,38.8899956235,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>bTZISxkK39sH</name>
-        <Point><coordinates>-77.0087038471,38.8896900952,0</coordinates></Point>
+        <Point><coordinates>-77.0086902292,38.8896924258,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>eGOoR3I08FkK</name>
-        <Point><coordinates>-77.0106907425,38.8902054332,0</coordinates></Point>
+        <Point><coordinates>-77.0107047763,38.8902085132,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>esDUnWVLgG6n</name>
-        <Point><coordinates>-77.0074076365,38.8897965383,0</coordinates></Point>
+        <Point><coordinates>-77.0074052357,38.8898068789,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>fT9hBhlaFgZd</name>
-        <Point><coordinates>-77.0105010045,38.8897078661,0</coordinates></Point>
+        <Point><coordinates>-77.0104941349,38.8896941337,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>fayNJbjcqXWg</name>
-        <Point><coordinates>-77.0072032386,38.8901906034,0</coordinates></Point>
+        <Point><coordinates>-77.0071948259,38.8901992904,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>fhqU4rQ4ZFzO</name>
-        <Point><coordinates>-77.0100021703,38.8898973038,0</coordinates></Point>
+        <Point><coordinates>-77.0099942676,38.889908286,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>fqMErkRVItV0</name>
-        <Point><coordinates>-77.0106015239,38.8902030448,0</coordinates></Point>
+        <Point><coordinates>-77.0105943695,38.8901970201,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>g5Yl8ERzrXxe</name>
-        <Point><coordinates>-77.0100964855,38.8905955153,0</coordinates></Point>
+        <Point><coordinates>-77.010097295,38.890601725,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>hg5pS8dNppFa</name>
-        <Point><coordinates>-77.0100944796,38.8898037933,0</coordinates></Point>
+        <Point><coordinates>-77.01009803,38.8898008191,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>hgQYuqIrZTls</name>
-        <Point><coordinates>-77.0105961149,38.8900051839,0</coordinates></Point>
+        <Point><coordinates>-77.0105907768,38.8899956061,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>hr06Kn7hkUP1</name>
-        <Point><coordinates>-77.0105803885,38.8896801685,0</coordinates></Point>
+        <Point><coordinates>-77.0105942056,38.8896973408,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>jNECpFrRhbpg</name>
-        <Point><coordinates>-77.0102983912,38.8900945495,0</coordinates></Point>
+        <Point><coordinates>-77.0102930201,38.8901060832,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>k2X98xAHmHWa</name>
-        <Point><coordinates>-77.0094031296,38.8903985249,0</coordinates></Point>
+        <Point><coordinates>-77.0093969406,38.8903924912,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>kau2NI4P6n48</name>
-        <Point><coordinates>-77.0103006241,38.890295878,0</coordinates></Point>
+        <Point><coordinates>-77.0103004509,38.8903093247,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>m4XCINGgSKee</name>
-        <Point><coordinates>-77.0104056809,38.8901082086,0</coordinates></Point>
+        <Point><coordinates>-77.0104063996,38.8901028218,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>mnp38uv7p0Tz</name>
-        <Point><coordinates>-77.0105962678,38.8902024572,0</coordinates></Point>
+        <Point><coordinates>-77.0106009096,38.8902091325,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>ns9EbTf56zJM</name>
-        <Point><coordinates>-77.0106034501,38.8898966812,0</coordinates></Point>
+        <Point><coordinates>-77.0106072033,38.8899017759,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>pN3q5NvwoghI</name>
-        <Point><coordinates>-77.0103071459,38.8896946509,0</coordinates></Point>
+        <Point><coordinates>-77.0102966436,38.8896953179,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>qGwtu6qUHfjy</name>
-        <Point><coordinates>-77.010407169,38.8900986128,0</coordinates></Point>
+        <Point><coordinates>-77.0103948344,38.8901086619,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>tb76lsT2Wakl</name>
-        <Point><coordinates>-77.0102050627,38.8897962594,0</coordinates></Point>
+        <Point><coordinates>-77.0101997381,38.8897915165,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>uu11kCrXZa78</name>
-        <Point><coordinates>-77.010806823,38.8894941529,0</coordinates></Point>
+        <Point><coordinates>-77.0108038686,38.889498804,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>xy2JnbdsJG5q</name>
-        <Point><coordinates>-77.0102039252,38.8898976769,0</coordinates></Point>
+        <Point><coordinates>-77.010205046,38.8898941228,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>ySO9aSEvs0Fx</name>
-        <Point><coordinates>-77.0101071308,38.8898938081,0</coordinates></Point>
+        <Point><coordinates>-77.010107737,38.8899073411,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>2bujYLrW7vAX</name>
-        <Point><coordinates>-77.010496412,38.890500391,0</coordinates></Point>
+        <Point><coordinates>-77.0104911682,38.8904979214,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>3ViaXA7t2cYc</name>
-        <Point><coordinates>-77.0100945893,38.8895964227,0</coordinates></Point>
+        <Point><coordinates>-77.0100967606,38.8896060952,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>44VAasWbJ4Bh</name>
-        <Point><coordinates>-77.0080015567,38.8899082481,0</coordinates></Point>
+        <Point><coordinates>-77.0079913125,38.8899042803,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>4nZvifrR6Gb5</name>
-        <Point><coordinates>-77.0095000512,38.8905009465,0</coordinates></Point>
+        <Point><coordinates>-77.0094921803,38.8905049756,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>55IZysHw38wO</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0101075933,38.8899034247,0</coordinates></Point>
+		<Point><coordinates>-77.0100958533,38.8898903683,0</coordinates></Point>
+		<description>https://youtu.be/JaD8DcKBFr8</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/JaD8DcKBFr8" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -510,21 +520,22 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>5an2kTUFQs2t</name>
-        <Point><coordinates>-77.0087982346,38.8898900414,0</coordinates></Point>
+        <Point><coordinates>-77.0087989593,38.8898910308,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>7dlSyXDWtlyA</name>
-        <Point><coordinates>-77.0102062433,38.8901003226,0</coordinates></Point>
+        <Point><coordinates>-77.010198847,38.8901067922,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>7fckI1220tbu</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0102942975,38.8900091682,0</coordinates></Point>
+		<Point><coordinates>-77.0102917462,38.8900051761,0</coordinates></Point>
+		<description>https://youtu.be/29_aiqsHO4k</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/29_aiqsHO4k" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -534,14 +545,15 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>8KdEh2A5hBi1</name>
-        <Point><coordinates>-77.0101945922,38.88989494,0</coordinates></Point>
+        <Point><coordinates>-77.0102040662,38.8898976439,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>8cSaamVcsMri</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0092950221,38.8902977996,0</coordinates></Point>
+		<Point><coordinates>-77.0092969494,38.8903035514,0</coordinates></Point>
+		<description>https://youtu.be/rUlfaPrzdag</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/rUlfaPrzdag" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -551,14 +563,15 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>A8Jiah39MrVY</name>
-        <Point><coordinates>-77.0103914137,38.8899022629,0</coordinates></Point>
+        <Point><coordinates>-77.0103940246,38.8898947578,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>AYijYnzI0Gbr</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0071964928,38.8898908102,0</coordinates></Point>
+		<Point><coordinates>-77.0072066934,38.8898948016,0</coordinates></Point>
+		<description>https://youtu.be/sQ5LeskZ2WY</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/sQ5LeskZ2WY" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -568,7 +581,8 @@
 	      <Placemark>
 		<name>AwME4HLA6vtW</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0090014504,38.8904908206,0</coordinates></Point>
+		<Point><coordinates>-77.0089917667,38.8905097732,0</coordinates></Point>
+		<description>https://youtu.be/Cky2qUrM1ww</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/Cky2qUrM1ww" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -578,35 +592,36 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>DJzdPcAuKKwU</name>
-        <Point><coordinates>-77.0100022649,38.8900090361,0</coordinates></Point>
+        <Point><coordinates>-77.0100012071,38.88999841,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>DLj1sth1JqF4</name>
-        <Point><coordinates>-77.0105863351,38.889690552,0</coordinates></Point>
+        <Point><coordinates>-77.0105817971,38.8896901018,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>DX3RBg66JdtR</name>
-        <Point><coordinates>-77.0104014697,38.890005145,0</coordinates></Point>
+        <Point><coordinates>-77.0104021267,38.8900025729,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>DzTb5lFGVF6I</name>
-        <Point><coordinates>-77.0101906159,38.8902971047,0</coordinates></Point>
+        <Point><coordinates>-77.0101915792,38.8903087261,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>HSEUpO8N6K1f</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0105903766,38.8902093758,0</coordinates></Point>
+		<Point><coordinates>-77.0105948786,38.8901986333,0</coordinates></Point>
+		<description>https://youtu.be/ZJrOZ8KFsmc</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/ZJrOZ8KFsmc" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -616,7 +631,8 @@
 	      <Placemark>
 		<name>KAu8c8e4lbDG</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0103917144,38.8896028236,0</coordinates></Point>
+		<Point><coordinates>-77.0103996569,38.889602408,0</coordinates></Point>
+		<description>https://youtu.be/S5zRXZkg93s</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/S5zRXZkg93s" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -626,7 +642,8 @@
 	      <Placemark>
 		<name>LD5GrQx0MtsI</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0103078292,38.8896028181,0</coordinates></Point>
+		<Point><coordinates>-77.0103021126,38.8895914245,0</coordinates></Point>
+		<description>https://youtu.be/VQ2DgfJU5Fw</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/VQ2DgfJU5Fw" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -636,14 +653,15 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>LQKqUqbhU50v</name>
-        <Point><coordinates>-77.0102944282,38.889701678,0</coordinates></Point>
+        <Point><coordinates>-77.0102913043,38.8896952272,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>MGIywYHb2lB8</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0073925529,38.8902951149,0</coordinates></Point>
+		<Point><coordinates>-77.0074069698,38.890300246,0</coordinates></Point>
+		<description>https://youtu.be/7117bRh3f0Y</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/7117bRh3f0Y" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -653,14 +671,15 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>OW32M7s2e7u4</name>
-        <Point><coordinates>-77.0106993012,38.8900051264,0</coordinates></Point>
+        <Point><coordinates>-77.0106972874,38.8899940025,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>OqD8bxN4Nnkt</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0104025636,38.889698697,0</coordinates></Point>
+		<Point><coordinates>-77.0103969518,38.8897010463,0</coordinates></Point>
+		<description>https://youtu.be/wofQgB9zFZY</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/wofQgB9zFZY" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -670,7 +689,8 @@
 	      <Placemark>
 		<name>Qef9FWcq57B2</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0107930222,38.8899041689,0</coordinates></Point>
+		<Point><coordinates>-77.0108080926,38.8899073574,0</coordinates></Point>
+		<description>https://youtu.be/KWgyhiqXAyw</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/KWgyhiqXAyw" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -680,7 +700,8 @@
 	      <Placemark>
 		<name>QgPXUnbdhx3q</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0097001092,38.8912006966,0</coordinates></Point>
+		<Point><coordinates>-77.0097060621,38.8911992005,0</coordinates></Point>
+		<description>https://youtu.be/qCApZ16sb2I</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/qCApZ16sb2I" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -690,287 +711,288 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>S2fZ6snkrKpA</name>
-        <Point><coordinates>-77.0102914444,38.8894934263,0</coordinates></Point>
+        <Point><coordinates>-77.0102981461,38.8895071699,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>SVCC538Rh28I</name>
-        <Point><coordinates>-77.0100037064,38.8898050833,0</coordinates></Point>
+        <Point><coordinates>-77.0100001404,38.889790298,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>TNi4F73rBo86</name>
-        <Point><coordinates>-77.0104030919,38.8898976648,0</coordinates></Point>
+        <Point><coordinates>-77.0104003183,38.8898937355,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>TzNP4slvH8hH</name>
-        <Point><coordinates>-77.0090926837,38.8901009886,0</coordinates></Point>
+        <Point><coordinates>-77.0091004759,38.8901013304,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>U6EA5mgSkTWR</name>
-        <Point><coordinates>-77.010805626,38.8904040186,0</coordinates></Point>
+        <Point><coordinates>-77.0108010836,38.8904043148,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>UIQNpWMQtfbc</name>
-        <Point><coordinates>-77.0105961307,38.8902084158,0</coordinates></Point>
+        <Point><coordinates>-77.0105949593,38.8902050796,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>VXQewijq1iuR</name>
-        <Point><coordinates>-77.0098071077,38.8900035744,0</coordinates></Point>
+        <Point><coordinates>-77.0098062809,38.8900068302,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>W7VwKbtpEtm0</name>
-        <Point><coordinates>-77.0092936013,38.8911008996,0</coordinates></Point>
+        <Point><coordinates>-77.0093034944,38.8910950743,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>WDIGXfQaTUL6</name>
-        <Point><coordinates>-77.0103046334,38.8899084914,0</coordinates></Point>
+        <Point><coordinates>-77.0103044908,38.8899043823,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>XBDMuKJHZYGP</name>
-        <Point><coordinates>-77.0090078364,38.891100944,0</coordinates></Point>
+        <Point><coordinates>-77.0089934746,38.8911078073,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>akK49L4aRpbh</name>
-        <Point><coordinates>-77.0100016439,38.8900991388,0</coordinates></Point>
+        <Point><coordinates>-77.009992153,38.8900986697,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>bHrrdOH7wawk</name>
-        <Point><coordinates>-77.0103036462,38.8898083742,0</coordinates></Point>
+        <Point><coordinates>-77.0103079029,38.8898096198,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>cSQU65ufjt3T</name>
-        <Point><coordinates>-77.006903122,38.889999439,0</coordinates></Point>
+        <Point><coordinates>-77.0068961406,38.8899965159,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>d7W6peU7P7SA</name>
-        <Point><coordinates>-77.0087026218,38.8898960455,0</coordinates></Point>
+        <Point><coordinates>-77.0087068747,38.8899082488,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>e1gcuShcWxYz</name>
-        <Point><coordinates>-77.0098997127,38.8901011585,0</coordinates></Point>
+        <Point><coordinates>-77.0099021839,38.8900939099,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>fpdroYF3R9Fm</name>
-        <Point><coordinates>-77.0099098713,38.8899912693,0</coordinates></Point>
+        <Point><coordinates>-77.0099052776,38.8899938236,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>fxUqhz7cwLRV</name>
-        <Point><coordinates>-77.0079943044,38.8911011555,0</coordinates></Point>
+        <Point><coordinates>-77.008003233,38.8910928773,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>gDUGUplC0cfv</name>
-        <Point><coordinates>-77.0104050172,38.8900901632,0</coordinates></Point>
+        <Point><coordinates>-77.0104086231,38.8900998114,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>h8BjMg20Fk7s</name>
-        <Point><coordinates>-77.0102948633,38.8898985897,0</coordinates></Point>
+        <Point><coordinates>-77.010298261,38.8898903378,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>iLT5LyXUlPV9</name>
-        <Point><coordinates>-77.0104058168,38.8895066824,0</coordinates></Point>
+        <Point><coordinates>-77.0103948841,38.8894938923,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>jYwFYXnCB8gz</name>
-        <Point><coordinates>-77.008290754,38.8898005746,0</coordinates></Point>
+        <Point><coordinates>-77.0082996933,38.8897978742,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>k7KE6Yc6SkoA</name>
-        <Point><coordinates>-77.0103013028,38.8903973058,0</coordinates></Point>
+        <Point><coordinates>-77.0103024956,38.8903929753,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>kLb23eMMSAyI</name>
-        <Point><coordinates>-77.0106935151,38.8901914714,0</coordinates></Point>
+        <Point><coordinates>-77.0106978304,38.8902060485,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>nQHStDim8Buj</name>
-        <Point><coordinates>-77.0105028776,38.8900916474,0</coordinates></Point>
+        <Point><coordinates>-77.0104938325,38.8901015644,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>oq59QSJY1eYO</name>
-        <Point><coordinates>-77.0102934127,38.8900021783,0</coordinates></Point>
+        <Point><coordinates>-77.0103085507,38.8900061174,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>pF7XCEbbEFZa</name>
-        <Point><coordinates>-77.0105049159,38.890091651,0</coordinates></Point>
+        <Point><coordinates>-77.01049877,38.8900914816,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>pwLo9ArrdDdt</name>
-        <Point><coordinates>-77.0098941906,38.8906070803,0</coordinates></Point>
+        <Point><coordinates>-77.0099058628,38.8906092853,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>reu60mHQDzBX</name>
-        <Point><coordinates>-77.0082915962,38.8912959206,0</coordinates></Point>
+        <Point><coordinates>-77.0083026122,38.8913035655,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>rpHKA3qfYA5y</name>
-        <Point><coordinates>-77.0076089089,38.8909993673,0</coordinates></Point>
+        <Point><coordinates>-77.0075991074,38.8909952683,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>rx8AvgxkFeGd</name>
-        <Point><coordinates>-77.0105997703,38.8898961397,0</coordinates></Point>
+        <Point><coordinates>-77.010595261,38.8899023177,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>sK1F7q5Fv7IL</name>
-        <Point><coordinates>-77.0103919145,38.889891976,0</coordinates></Point>
+        <Point><coordinates>-77.0104007004,38.8898929606,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>uXaWh7G2P36n</name>
-        <Point><coordinates>-77.010203365,38.8902977164,0</coordinates></Point>
+        <Point><coordinates>-77.010202142,38.8903085666,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>v7WuuCUCUgtD</name>
-        <Point><coordinates>-77.0073938839,38.8896966215,0</coordinates></Point>
+        <Point><coordinates>-77.007392875,38.8896913,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>x2GqSN2kAGY3</name>
-        <Point><coordinates>-77.0100955569,38.8898058095,0</coordinates></Point>
+        <Point><coordinates>-77.0101068331,38.8897945379,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>0VjRwooevgzN</name>
-        <Point><coordinates>-77.0104997195,38.8901024578,0</coordinates></Point>
+        <Point><coordinates>-77.0104993541,38.8901085577,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>1do91KWUgjXQ</name>
-        <Point><coordinates>-77.0079918251,38.8898906057,0</coordinates></Point>
+        <Point><coordinates>-77.0080053238,38.8899032222,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>49158lDv9MVH</name>
-        <Point><coordinates>-77.0101927609,38.889704294,0</coordinates></Point>
+        <Point><coordinates>-77.0102095163,38.889707373,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>5KP7PnNWK4Ue</name>
-        <Point><coordinates>-77.0103932667,38.8894901696,0</coordinates></Point>
+        <Point><coordinates>-77.0103938351,38.8894987532,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>6TYMFzQTLUTN</name>
-        <Point><coordinates>-77.0103969157,38.8902005652,0</coordinates></Point>
+        <Point><coordinates>-77.010400031,38.8902045451,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>7iB22C7LbbNy</name>
-        <Point><coordinates>-77.0098988465,38.8899924543,0</coordinates></Point>
+        <Point><coordinates>-77.0098921703,38.8900094581,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>7pyX4y0Z2wiy</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.007496661,38.8902054916,0</coordinates></Point>
+		<Point><coordinates>-77.0074925093,38.8902081422,0</coordinates></Point>
+		<description>https://youtu.be/7O0E__AL9W4</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/7O0E__AL9W4" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -980,14 +1002,15 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>BFebZCtfR5aF</name>
-        <Point><coordinates>-77.0101956043,38.889793717,0</coordinates></Point>
+        <Point><coordinates>-77.0101941148,38.8898054329,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>BG80gujuK5P6</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0106931897,38.8909960097,0</coordinates></Point>
+		<Point><coordinates>-77.0106981737,38.8909919011,0</coordinates></Point>
+		<description>https://youtu.be/F1nkKocsAgc</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/F1nkKocsAgc" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -997,7 +1020,8 @@
 	      <Placemark>
 		<name>Bl351Ty32aMu</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0103097974,38.8903049006,0</coordinates></Point>
+		<Point><coordinates>-77.0102912058,38.8903012669,0</coordinates></Point>
+		<description>https://youtu.be/qsJydCnaZn4</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/qsJydCnaZn4" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -1007,7 +1031,8 @@
 	      <Placemark>
 		<name>BvNA5CiE47yt</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0098073574,38.8902972814,0</coordinates></Point>
+		<Point><coordinates>-77.0098024792,38.8903066854,0</coordinates></Point>
+		<description>https://youtu.be/S1J5pQVNOTI</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/S1J5pQVNOTI" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -1017,35 +1042,36 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>CPeuy7lOW44J</name>
-        <Point><coordinates>-77.0093956428,38.8904060652,0</coordinates></Point>
+        <Point><coordinates>-77.009397043,38.8903994659,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>CZgJF11YMHNh</name>
-        <Point><coordinates>-77.0094015919,38.8906924798,0</coordinates></Point>
+        <Point><coordinates>-77.0094070749,38.8906992033,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>D74suPzrQwTL</name>
-        <Point><coordinates>-77.0094902274,38.8906959641,0</coordinates></Point>
+        <Point><coordinates>-77.009503898,38.8906923254,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>FrQl6xqto2uu</name>
-        <Point><coordinates>-77.0105092786,38.8896941718,0</coordinates></Point>
+        <Point><coordinates>-77.010498699,38.8896931093,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>JFDVk6DaG1KD</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0103075988,38.8901971285,0</coordinates></Point>
+		<Point><coordinates>-77.0102955961,38.8901935393,0</coordinates></Point>
+		<description>https://youtu.be/r3Gs6GrdMj8</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/r3Gs6GrdMj8" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -1055,7 +1081,8 @@
 	      <Placemark>
 		<name>JTr7X40BBrhP</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0103984747,38.8896947011,0</coordinates></Point>
+		<Point><coordinates>-77.0104057983,38.8896967472,0</coordinates></Point>
+		<description>https://youtu.be/YmKCQKgG9NA</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/YmKCQKgG9NA" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -1065,7 +1092,8 @@
 	      <Placemark>
 		<name>KUWzwIjF44AC</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0107947609,38.8895094735,0</coordinates></Point>
+		<Point><coordinates>-77.0107906368,38.8895069939,0</coordinates></Point>
+		<description>https://youtu.be/tpRfMwEcMOk</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/tpRfMwEcMOk" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -1075,49 +1103,50 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>KYoi7C8a45cX</name>
-        <Point><coordinates>-77.0102051522,38.8894961035,0</coordinates></Point>
+        <Point><coordinates>-77.0101934579,38.8894945975,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>KaWdtA4ulyQo</name>
-        <Point><coordinates>-77.0104034761,38.890105588,0</coordinates></Point>
+        <Point><coordinates>-77.0103920479,38.8900917142,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>M4qAK9MhEpEF</name>
-        <Point><coordinates>-77.0097986233,38.8902946224,0</coordinates></Point>
+        <Point><coordinates>-77.0098038835,38.8902929248,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>MF0TbEHFkmjB</name>
-        <Point><coordinates>-77.0081902546,38.8913030158,0</coordinates></Point>
+        <Point><coordinates>-77.0081900607,38.8913087209,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>OYFkHMYFMLfZ</name>
-        <Point><coordinates>-77.0080047751,38.889802791,0</coordinates></Point>
+        <Point><coordinates>-77.0080090451,38.8898028955,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>Oc9WgHNGpAhE</name>
-        <Point><coordinates>-77.0100994778,38.8901048512,0</coordinates></Point>
+        <Point><coordinates>-77.0100977647,38.8901038087,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>QjlS1mXfbokU</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0103089718,38.8900967021,0</coordinates></Point>
+		<Point><coordinates>-77.010306754,38.890109827,0</coordinates></Point>
+		<description>https://youtu.be/vc2Udgqzzt8</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/vc2Udgqzzt8" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -1127,7 +1156,8 @@
 	      <Placemark>
 		<name>REUyWy1tXI22</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0101968569,38.8916025235,0</coordinates></Point>
+		<Point><coordinates>-77.0101955824,38.8915904761,0</coordinates></Point>
+		<description>https://youtu.be/mqnPktljNbo</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/mqnPktljNbo" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -1137,266 +1167,267 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>RqSWAT2AD63b</name>
-        <Point><coordinates>-77.0104026788,38.8898911471,0</coordinates></Point>
+        <Point><coordinates>-77.0104047606,38.8898936135,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>SHGsCPYkkOFj</name>
-        <Point><coordinates>-77.0101905233,38.8897001415,0</coordinates></Point>
+        <Point><coordinates>-77.0101935454,38.8896980899,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>Ty8H2A9NGGGD</name>
-        <Point><coordinates>-77.0106911034,38.890192466,0</coordinates></Point>
+        <Point><coordinates>-77.0107061221,38.8902014475,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>UIqcvJE6vzT5</name>
-        <Point><coordinates>-77.0102959216,38.8898981389,0</coordinates></Point>
+        <Point><coordinates>-77.0103001017,38.8898966441,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>Uc6znqKs3w7S</name>
-        <Point><coordinates>-77.0106041991,38.8901909041,0</coordinates></Point>
+        <Point><coordinates>-77.0105921779,38.8901959533,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>W56O8L5R8kju</name>
-        <Point><coordinates>-77.0102953119,38.8904029561,0</coordinates></Point>
+        <Point><coordinates>-77.0102944802,38.8904063272,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>W9d9UvLeBYFu</name>
-        <Point><coordinates>-77.010009439,38.8901078022,0</coordinates></Point>
+        <Point><coordinates>-77.0099965934,38.8900934801,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>ZUh5H7yo16yk</name>
-        <Point><coordinates>-77.0092902498,38.891103425,0</coordinates></Point>
+        <Point><coordinates>-77.0093011259,38.8911014258,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>bMHWhr5qAMH9</name>
-        <Point><coordinates>-77.0104000003,38.8901058883,0</coordinates></Point>
+        <Point><coordinates>-77.0104071222,38.8900959274,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>cmzbWnPI5Jgs</name>
-        <Point><coordinates>-77.0107924039,38.8900968457,0</coordinates></Point>
+        <Point><coordinates>-77.0108048931,38.8900957427,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>cnj6DJtVllfK</name>
-        <Point><coordinates>-77.0105923184,38.8898994912,0</coordinates></Point>
+        <Point><coordinates>-77.0105902008,38.8898961858,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>dT3kSGZzzSzI</name>
-        <Point><coordinates>-77.0106043219,38.8899027486,0</coordinates></Point>
+        <Point><coordinates>-77.0106069757,38.8898967749,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>dsIj54OcP9IS</name>
-        <Point><coordinates>-77.010504335,38.8897076141,0</coordinates></Point>
+        <Point><coordinates>-77.010509793,38.8896943314,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>dwvgDZzQRsY3</name>
-        <Point><coordinates>-77.0107975305,38.8896016848,0</coordinates></Point>
+        <Point><coordinates>-77.0107955569,38.8895939837,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>eLSgf3w5r4PI</name>
-        <Point><coordinates>-77.0103984184,38.8902092144,0</coordinates></Point>
+        <Point><coordinates>-77.010408744,38.8901956832,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>h2nH3xXOsrQ5</name>
-        <Point><coordinates>-77.0103066027,38.8901934556,0</coordinates></Point>
+        <Point><coordinates>-77.0103028962,38.8902086453,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>hmh5w1cou88U</name>
-        <Point><coordinates>-77.0102964888,38.8899950416,0</coordinates></Point>
+        <Point><coordinates>-77.010292896,38.8899948002,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>i44n33HT20J8</name>
-        <Point><coordinates>-77.0104919328,38.889591336,0</coordinates></Point>
+        <Point><coordinates>-77.0104967301,38.8895987883,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>ioCUUM1Est97</name>
-        <Point><coordinates>-77.007705253,38.8911018889,0</coordinates></Point>
+        <Point><coordinates>-77.0077068657,38.8910943024,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>jkHvCmHQ8YzJ</name>
-        <Point><coordinates>-77.0087931837,38.8911930759,0</coordinates></Point>
+        <Point><coordinates>-77.0088014018,38.8912027329,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>nc76VY2gAWt8</name>
-        <Point><coordinates>-77.0105015964,38.8896065641,0</coordinates></Point>
+        <Point><coordinates>-77.0104901036,38.889594149,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>oe78jzaih2Fp</name>
-        <Point><coordinates>-77.010301674,38.889601367,0</coordinates></Point>
+        <Point><coordinates>-77.0102935154,38.8896005049,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>rKv1m3cDVn8K</name>
-        <Point><coordinates>-77.0101936303,38.8900974905,0</coordinates></Point>
+        <Point><coordinates>-77.0102049319,38.8901079109,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>rNO0gDpL5nKj</name>
-        <Point><coordinates>-77.0094007794,38.890290191,0</coordinates></Point>
+        <Point><coordinates>-77.0094085384,38.8902907923,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>sICg1C38nHiG</name>
-        <Point><coordinates>-77.010590134,38.8902041314,0</coordinates></Point>
+        <Point><coordinates>-77.0106008492,38.8902083791,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>sNSIvKezD8qU</name>
-        <Point><coordinates>-77.0087074269,38.8900998753,0</coordinates></Point>
+        <Point><coordinates>-77.0086980522,38.8901095144,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>tAc2BMgZlMhL</name>
-        <Point><coordinates>-77.0100973993,38.8899041503,0</coordinates></Point>
+        <Point><coordinates>-77.0100939048,38.8898938028,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>tN18oEGcdGtX</name>
-        <Point><coordinates>-77.0101911679,38.8896032744,0</coordinates></Point>
+        <Point><coordinates>-77.0102060121,38.8895983966,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>uWqE9aiqIa5b</name>
-        <Point><coordinates>-77.0098073747,38.890290734,0</coordinates></Point>
+        <Point><coordinates>-77.0097965746,38.8902953083,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>ucphoWjc05a0</name>
-        <Point><coordinates>-77.0082992884,38.8897902422,0</coordinates></Point>
+        <Point><coordinates>-77.0082929586,38.8897912567,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>xpOu8rY8QfDS</name>
-        <Point><coordinates>-77.0108006459,38.8903913579,0</coordinates></Point>
+        <Point><coordinates>-77.0107965379,38.8903919331,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>xracYRRZyQ66</name>
-        <Point><coordinates>-77.0072016193,38.8910022715,0</coordinates></Point>
+        <Point><coordinates>-77.0071990737,38.8909998759,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>yNE8dnxhV87u</name>
-        <Point><coordinates>-77.0107019465,38.8894053838,0</coordinates></Point>
+        <Point><coordinates>-77.010698316,38.8893932298,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>yQ67Hra75Hkd</name>
-        <Point><coordinates>-77.0106951368,38.8906028538,0</coordinates></Point>
+        <Point><coordinates>-77.0106974278,38.8905973415,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>zaCkdtc3RfzT</name>
-        <Point><coordinates>-77.0094040962,38.8907064789,0</coordinates></Point>
+        <Point><coordinates>-77.0094023163,38.8907014201,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>0lmypbT9naSL</name>
-        <Point><coordinates>-77.0099992101,38.8899093717,0</coordinates></Point>
+        <Point><coordinates>-77.0100087132,38.8898997241,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>2PBoIh9W74cM</name>
-        <Point><coordinates>-77.0096969817,38.889995959,0</coordinates></Point>
+        <Point><coordinates>-77.009704368,38.8899971139,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>3vGQyQIMf9H5</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0092056312,38.8899055884,0</coordinates></Point>
+		<Point><coordinates>-77.0091919547,38.8899068815,0</coordinates></Point>
+		<description>https://youtu.be/snbsITpm9fM</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/snbsITpm9fM" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -1406,28 +1437,29 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>3xX9V5SrmugB</name>
-        <Point><coordinates>-77.0103904953,38.8901954535,0</coordinates></Point>
+        <Point><coordinates>-77.0104060938,38.8902000093,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>4GAV26EQ2cD6</name>
-        <Point><coordinates>-77.0105997076,38.8901960148,0</coordinates></Point>
+        <Point><coordinates>-77.0105904061,38.8901992614,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>5E16pZQTISLc</name>
-        <Point><coordinates>-77.0104935896,38.8896983462,0</coordinates></Point>
+        <Point><coordinates>-77.0105006614,38.889704245,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>5kf2savkefB7</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0084961714,38.8898007809,0</coordinates></Point>
+		<Point><coordinates>-77.0084919676,38.889808409,0</coordinates></Point>
+		<description>https://youtu.be/Ib8aqDT0y2s</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/Ib8aqDT0y2s" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -1437,63 +1469,64 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>69WACz6SPQg8</name>
-        <Point><coordinates>-77.010103869,38.8901082747,0</coordinates></Point>
+        <Point><coordinates>-77.0100964525,38.8901043802,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>8154Nmd3bQq2</name>
-        <Point><coordinates>-77.0102080816,38.8894937314,0</coordinates></Point>
+        <Point><coordinates>-77.0101965008,38.8895022942,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>EFv9XkrdDg8Q</name>
-        <Point><coordinates>-77.0104072951,38.8900014969,0</coordinates></Point>
+        <Point><coordinates>-77.0104028246,38.8900089186,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>FEwehCHGBE3e</name>
-        <Point><coordinates>-77.0084060706,38.888606748,0</coordinates></Point>
+        <Point><coordinates>-77.0084016077,38.8886035778,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>FxXTgCmKCYXv</name>
-        <Point><coordinates>-77.0100055572,38.8901085636,0</coordinates></Point>
+        <Point><coordinates>-77.0100095046,38.8901046686,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>G4rdUjsXjPju</name>
-        <Point><coordinates>-77.0102954587,38.889800142,0</coordinates></Point>
+        <Point><coordinates>-77.0102963352,38.8897938704,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>HITFOk1YWLly</name>
-        <Point><coordinates>-77.0098908197,38.890203733,0</coordinates></Point>
+        <Point><coordinates>-77.0098974738,38.8902000406,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>IgCQjNBok5f2</name>
-        <Point><coordinates>-77.0086942069,38.889897187,0</coordinates></Point>
+        <Point><coordinates>-77.0086955063,38.8898984115,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>KDH68TyHUiw5</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0100081845,38.8900997299,0</coordinates></Point>
+		<Point><coordinates>-77.0099912788,38.8901075875,0</coordinates></Point>
+		<description>https://youtu.be/p14W-1JNHBM</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/p14W-1JNHBM" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -1503,7 +1536,8 @@
 	      <Placemark>
 		<name>KMyt1obG9scS</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0092973107,38.8910966829,0</coordinates></Point>
+		<Point><coordinates>-77.0093093975,38.8910938201,0</coordinates></Point>
+		<description>https://youtu.be/2sIskvQqTMY</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/2sIskvQqTMY" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -1513,14 +1547,15 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>M8YHLRH9D7gh</name>
-        <Point><coordinates>-77.0097934167,38.8899999226,0</coordinates></Point>
+        <Point><coordinates>-77.0097924766,38.8900017433,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>MIS1v7mdAmPU</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0103981033,38.8901955106,0</coordinates></Point>
+		<Point><coordinates>-77.0104090816,38.8901933304,0</coordinates></Point>
+		<description>https://youtu.be/qBn1FeblPt4</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/qBn1FeblPt4" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -1530,14 +1565,15 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>NCHvDSEn4XFl</name>
-        <Point><coordinates>-77.0103061328,38.8903987556,0</coordinates></Point>
+        <Point><coordinates>-77.0102948559,38.8904078374,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>PxBfJc8LQNOq</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0104911649,38.8902061475,0</coordinates></Point>
+		<Point><coordinates>-77.0104976938,38.8902075049,0</coordinates></Point>
+		<description>https://youtu.be/eF4RYb8wZGg</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/eF4RYb8wZGg" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -1547,7 +1583,8 @@
 	      <Placemark>
 		<name>Q7pXj92SdEwH</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0071988415,38.8909928335,0</coordinates></Point>
+		<Point><coordinates>-77.0071947166,38.8910011065,0</coordinates></Point>
+		<description>https://youtu.be/XKNqb5hLJss</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/XKNqb5hLJss" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -1557,14 +1594,15 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>QgPc65a71aHC</name>
-        <Point><coordinates>-77.0103094802,38.8901003706,0</coordinates></Point>
+        <Point><coordinates>-77.010292442,38.8901059611,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>Qo3hom0Qb1at</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0082954483,38.8907044794,0</coordinates></Point>
+		<Point><coordinates>-77.0082951283,38.8906979558,0</coordinates></Point>
+		<description>https://youtu.be/A7LhS_7z8m8</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/A7LhS_7z8m8" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -1574,196 +1612,197 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>U4cg0Dfgtz12</name>
-        <Point><coordinates>-77.0102928634,38.8902055925,0</coordinates></Point>
+        <Point><coordinates>-77.0103084463,38.8902094683,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>VSBG3TilomZ3</name>
-        <Point><coordinates>-77.0099066015,38.8897962674,0</coordinates></Point>
+        <Point><coordinates>-77.0099028213,38.8897922864,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>XNohvDluHfmx</name>
-        <Point><coordinates>-77.0088901316,38.8908063535,0</coordinates></Point>
+        <Point><coordinates>-77.0089064949,38.8908036286,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>ZhHAD9NO8kHg</name>
-        <Point><coordinates>-77.010106351,38.8898089234,0</coordinates></Point>
+        <Point><coordinates>-77.0101079452,38.8897973305,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>ckvcLvKYv4cd</name>
-        <Point><coordinates>-77.0099961362,38.8897948961,0</coordinates></Point>
+        <Point><coordinates>-77.0100017236,38.8898061814,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>goL0HLdYn3Pb</name>
-        <Point><coordinates>-77.0099087331,38.8900992945,0</coordinates></Point>
+        <Point><coordinates>-77.0099002422,38.8901002102,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>hDj4WDgMa7a5</name>
-        <Point><coordinates>-77.0082030204,38.8914091737,0</coordinates></Point>
+        <Point><coordinates>-77.0081974952,38.8913976205,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>he044xyPOURQ</name>
-        <Point><coordinates>-77.0101981523,38.889999153,0</coordinates></Point>
+        <Point><coordinates>-77.0102014819,38.8899901199,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>i4km00GwGXJl</name>
-        <Point><coordinates>-77.0106027626,38.8900010497,0</coordinates></Point>
+        <Point><coordinates>-77.0106005929,38.8899907052,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>jCFVVrYH4bSd</name>
-        <Point><coordinates>-77.0092917204,38.8911095644,0</coordinates></Point>
+        <Point><coordinates>-77.0092956223,38.8910957168,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>kiBnNejo0JW0</name>
-        <Point><coordinates>-77.0099095702,38.8898959798,0</coordinates></Point>
+        <Point><coordinates>-77.0099035727,38.8899083157,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>kzrYSH4ddnof</name>
-        <Point><coordinates>-77.0101948549,38.889706907,0</coordinates></Point>
+        <Point><coordinates>-77.0102036413,38.8896920197,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>lPoHoha3r4BZ</name>
-        <Point><coordinates>-77.0081000515,38.890000091,0</coordinates></Point>
+        <Point><coordinates>-77.0080978847,38.8899905897,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>m7EaLSED6igL</name>
-        <Point><coordinates>-77.0076950553,38.8897994157,0</coordinates></Point>
+        <Point><coordinates>-77.0077031834,38.8897928228,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>mxhCOOkUXgbA</name>
-        <Point><coordinates>-77.0102957625,38.8899908402,0</coordinates></Point>
+        <Point><coordinates>-77.0103075353,38.8899971621,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>neDUluCOUqv7</name>
-        <Point><coordinates>-77.0077956014,38.8892974468,0</coordinates></Point>
+        <Point><coordinates>-77.0078073682,38.8892942776,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>oOILVE6gv0OH</name>
-        <Point><coordinates>-77.0103019467,38.8897911554,0</coordinates></Point>
+        <Point><coordinates>-77.0103033165,38.8897998837,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>pQf5uxtLtxH5</name>
-        <Point><coordinates>-77.0098032863,38.8898922943,0</coordinates></Point>
+        <Point><coordinates>-77.0097957548,38.8899027255,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>qrYDoc4tDU8a</name>
-        <Point><coordinates>-77.0104978836,38.8896912711,0</coordinates></Point>
+        <Point><coordinates>-77.0104935016,38.8896995999,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>rQVUBMBLgLCR</name>
-        <Point><coordinates>-77.0082058037,38.8908990999,0</coordinates></Point>
+        <Point><coordinates>-77.0082039302,38.8909022932,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>rgDWmSDLhmhC</name>
-        <Point><coordinates>-77.0098067685,38.8900981618,0</coordinates></Point>
+        <Point><coordinates>-77.0098095948,38.8901044145,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>sqSMP875Jkmb</name>
-        <Point><coordinates>-77.0104075888,38.8898999749,0</coordinates></Point>
+        <Point><coordinates>-77.0103923837,38.8898933538,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>t7MJQilPbkFn</name>
-        <Point><coordinates>-77.0104950056,38.8897962233,0</coordinates></Point>
+        <Point><coordinates>-77.0104953636,38.8898070536,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>wCbOT5Lhqo7n</name>
-        <Point><coordinates>-77.0102919476,38.8899996347,0</coordinates></Point>
+        <Point><coordinates>-77.0103006617,38.8900044455,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>x9k3Cy14CSkF</name>
-        <Point><coordinates>-77.0099945962,38.8896907654,0</coordinates></Point>
+        <Point><coordinates>-77.009991085,38.8896970308,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>xHkUeMHMFx3F</name>
-        <Point><coordinates>-77.0102035545,38.890092941,0</coordinates></Point>
+        <Point><coordinates>-77.0102075274,38.8900962656,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>z5gCyYj1MB4N</name>
-        <Point><coordinates>-77.0103945121,38.8899933394,0</coordinates></Point>
+        <Point><coordinates>-77.0104043157,38.8900010342,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>1Zvr7Xtfv0Yt</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0102927142,38.8898089662,0</coordinates></Point>
+		<Point><coordinates>-77.0102987627,38.8897914848,0</coordinates></Point>
+		<description>https://youtu.be/Ng6Nq1QlEkM</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/Ng6Nq1QlEkM" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -1773,14 +1812,15 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>386TsNXzw58a</name>
-        <Point><coordinates>-77.0103013284,38.8898947826,0</coordinates></Point>
+        <Point><coordinates>-77.010290068,38.8899091105,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>4BN8CUCRxXuI</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0103009841,38.890191887,0</coordinates></Point>
+		<Point><coordinates>-77.0102915437,38.8901900486,0</coordinates></Point>
+		<description>https://youtu.be/847S6gLWGsk</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/847S6gLWGsk" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -1790,14 +1830,15 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>4tJb1pr11hRv</name>
-        <Point><coordinates>-77.0101926161,38.8895054196,0</coordinates></Point>
+        <Point><coordinates>-77.0102059297,38.8894934625,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>650ut3VxB679</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0101048717,38.8899992093,0</coordinates></Point>
+		<Point><coordinates>-77.0100922422,38.8900058118,0</coordinates></Point>
+		<description>https://youtu.be/ZMJhUc3xsC0</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/ZMJhUc3xsC0" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -1807,42 +1848,43 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>70PxGZN8jdkz</name>
-        <Point><coordinates>-77.0102082657,38.8901050668,0</coordinates></Point>
+        <Point><coordinates>-77.0101975367,38.8901028424,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>84qLg7BoXnnE</name>
-        <Point><coordinates>-77.0070951413,38.8913920421,0</coordinates></Point>
+        <Point><coordinates>-77.0070977183,38.8913999855,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>92T2a5WhOOdi</name>
-        <Point><coordinates>-77.0102901201,38.8898977502,0</coordinates></Point>
+        <Point><coordinates>-77.0103004495,38.889909847,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>9HgjVjxIB1F0</name>
-        <Point><coordinates>-77.0105038894,38.8899008646,0</coordinates></Point>
+        <Point><coordinates>-77.010490704,38.8899033948,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>9wOEguonR5WK</name>
-        <Point><coordinates>-77.0101994511,38.8901045877,0</coordinates></Point>
+        <Point><coordinates>-77.0102043022,38.8901052333,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>ATHRnnmNpayv</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0084021505,38.8907085465,0</coordinates></Point>
+		<Point><coordinates>-77.0084042308,38.890697999,0</coordinates></Point>
+		<description>https://youtu.be/vMBIsOq4CaI</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/vMBIsOq4CaI" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -1852,42 +1894,43 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>C4YoY0OUVVNO</name>
-        <Point><coordinates>-77.0096018943,38.8891904742,0</coordinates></Point>
+        <Point><coordinates>-77.009591184,38.8892016945,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>C6CA3XcXO87g</name>
-        <Point><coordinates>-77.0089930471,38.8898958513,0</coordinates></Point>
+        <Point><coordinates>-77.0090036805,38.8899067511,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>CmTRG8bUhFov</name>
-        <Point><coordinates>-77.010301158,38.8901977723,0</coordinates></Point>
+        <Point><coordinates>-77.0103009227,38.8901967731,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>D9VcpLzdRJhq</name>
-        <Point><coordinates>-77.0100086592,38.8897916674,0</coordinates></Point>
+        <Point><coordinates>-77.0099971977,38.8897938825,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>FBad9SgiC62l</name>
-        <Point><coordinates>-77.0106033061,38.8902090427,0</coordinates></Point>
+        <Point><coordinates>-77.0105980402,38.8901975576,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>G3QrHQ8hQT2j</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0103917109,38.889494076,0</coordinates></Point>
+		<Point><coordinates>-77.0103944628,38.8894900275,0</coordinates></Point>
+		<description>https://youtu.be/6Br25fBP5H0</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/6Br25fBP5H0" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -1897,21 +1940,22 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>GfSUNqBBliUF</name>
-        <Point><coordinates>-77.0082904854,38.8912938332,0</coordinates></Point>
+        <Point><coordinates>-77.0082910602,38.8912937111,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>HCPEQvbjh9gA</name>
-        <Point><coordinates>-77.0099983981,38.8897948811,0</coordinates></Point>
+        <Point><coordinates>-77.0100095725,38.8897951613,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>Iw8f3g3OZ7Ib</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0097907591,38.8903027948,0</coordinates></Point>
+		<Point><coordinates>-77.009806614,38.8903090972,0</coordinates></Point>
+		<description>https://youtu.be/oFNhGn0EyU8</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/oFNhGn0EyU8" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -1921,14 +1965,15 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>KAipffF8QN4W</name>
-        <Point><coordinates>-77.0104034255,38.889997529,0</coordinates></Point>
+        <Point><coordinates>-77.0103960007,38.8899972309,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>KOZwp3W3n68V</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.00969824,38.8899941465,0</coordinates></Point>
+		<Point><coordinates>-77.0097099216,38.8900005545,0</coordinates></Point>
+		<description>https://youtu.be/W5l_0aJiO-c</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/W5l_0aJiO-c" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -1938,21 +1983,22 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>Ky8Hevr7bKg9</name>
-        <Point><coordinates>-77.0102967532,38.890393361,0</coordinates></Point>
+        <Point><coordinates>-77.0103055576,38.8904019588,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>LQN0zyD01D3i</name>
-        <Point><coordinates>-77.0090934838,38.8899001135,0</coordinates></Point>
+        <Point><coordinates>-77.0090950611,38.8899003086,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>MVQm0eNzhPVp</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0102947184,38.8900080771,0</coordinates></Point>
+		<Point><coordinates>-77.0103042913,38.8899995391,0</coordinates></Point>
+		<description>https://youtu.be/S0XriAEdBDk</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/S0XriAEdBDk" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -1962,14 +2008,15 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>NxFqzCuhUuWu</name>
-        <Point><coordinates>-77.0096976772,38.8900947441,0</coordinates></Point>
+        <Point><coordinates>-77.0096960552,38.8900971451,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>OlQ3FLNrUgf5</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0102926049,38.8902990911,0</coordinates></Point>
+		<Point><coordinates>-77.0102973493,38.8903043649,0</coordinates></Point>
+		<description>https://youtu.be/IB9iuM8LXso</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/IB9iuM8LXso" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -1979,21 +2026,22 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>Ox9DFySZ4QpV</name>
-        <Point><coordinates>-77.0103060525,38.8897961225,0</coordinates></Point>
+        <Point><coordinates>-77.0103080183,38.8898030645,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>PKJUZ3EFcN73</name>
-        <Point><coordinates>-77.0104076636,38.8895937755,0</coordinates></Point>
+        <Point><coordinates>-77.0103968488,38.8895951759,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>Q7J24BNG2mCD</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0103044125,38.8898991736,0</coordinates></Point>
+		<Point><coordinates>-77.0102933272,38.8898930063,0</coordinates></Point>
+		<description>https://youtu.be/Lkn-tITvikI</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/Lkn-tITvikI" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -2003,7 +2051,8 @@
 	      <Placemark>
 		<name>QsKjvIGPfWKU</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0097966387,38.8896048602,0</coordinates></Point>
+		<Point><coordinates>-77.0098054075,38.8895906058,0</coordinates></Point>
+		<description>https://youtu.be/AksX9-wqzuA</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/AksX9-wqzuA" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -2013,52 +2062,52 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>RCK9wvoDmKQA</name>
-        <Point><coordinates>-77.0104044089,38.8899075797,0</coordinates></Point>
+        <Point><coordinates>-77.0103921685,38.8899058237,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>SytVtt4RWF4v</name>
-        <Point><coordinates>-77.0100921436,38.8899059547,0</coordinates></Point>
+        <Point><coordinates>-77.0100909544,38.8899072055,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>TD2RmUtYkTJn</name>
-        <Point><coordinates>-77.009701531,38.8899987003,0</coordinates></Point>
+        <Point><coordinates>-77.0096943797,38.8899904266,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>Tn46zhOR0nF1</name>
-        <Point><coordinates>-77.0096989685,38.89090265,0</coordinates></Point>
+        <Point><coordinates>-77.0096976038,38.8908982498,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>V032F8vspQ4W</name>
-        <Point><coordinates>-77.0070929904,38.8893976892,0</coordinates></Point>
+        <Point><coordinates>-77.0070970048,38.8894044946,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>V64JKsaNUkd7</name>
-        <Point><coordinates>-77.0099966233,38.8899048641,0</coordinates></Point>
+        <Point><coordinates>-77.0100005371,38.8898931383,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>W8ltLizECrMG</name>
-<description>https://www.dailymotion.com/embed/video/x7ynacd</description>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0091092163,38.889796157,0</coordinates></Point>
+		<Point><coordinates>-77.0090951356,38.8898066334,0</coordinates></Point>
+		<description>https://www.dailymotion.com/embed/video/x7ynacd</description>
 		<ExtendedData><Data name="video">
-		  <value><![CDATA[https://www.dailymotion.com/embed/video/x7ynacd]]></value>
+		  <value><![CDATA[<iframe width="800" height="600" src="https://www.dailymotion.com/embed/video/x7ynacd"></iframe><br><br>]]></value>
 		</Data></ExtendedData>
 	      </Placemark>
 		
@@ -2066,154 +2115,155 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>WOR0K16Wbi2I</name>
-        <Point><coordinates>-77.0081092978,38.8898958349,0</coordinates></Point>
+        <Point><coordinates>-77.0080901,38.8899061504,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>WyzGKqd4L9y1</name>
-        <Point><coordinates>-77.0082912965,38.8907044009,0</coordinates></Point>
+        <Point><coordinates>-77.008308991,38.8906987376,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>ZGCqQo5go8RC</name>
-        <Point><coordinates>-77.0096901521,38.8903984413,0</coordinates></Point>
+        <Point><coordinates>-77.0096966445,38.890394802,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>c1vJVaLcIdbk</name>
-        <Point><coordinates>-77.010098343,38.8897959957,0</coordinates></Point>
+        <Point><coordinates>-77.0100999229,38.8898096981,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>c7pkKiK235B9</name>
-        <Point><coordinates>-77.0107934823,38.8896015201,0</coordinates></Point>
+        <Point><coordinates>-77.0107969003,38.8895989736,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>cirqID5Kjxdp</name>
-        <Point><coordinates>-77.0094916894,38.8904945389,0</coordinates></Point>
+        <Point><coordinates>-77.0094972451,38.8905045789,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>dF2z7e7CkqqD</name>
-        <Point><coordinates>-77.0101004417,38.8894913521,0</coordinates></Point>
+        <Point><coordinates>-77.0100976652,38.8894906694,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>h1XUhjJ5U6fD</name>
-        <Point><coordinates>-77.0086903701,38.8898063824,0</coordinates></Point>
+        <Point><coordinates>-77.0087081591,38.8898052642,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>jW0bQSDFVOEx</name>
-        <Point><coordinates>-77.0089056358,38.8910088921,0</coordinates></Point>
+        <Point><coordinates>-77.0089089903,38.8910096621,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>nYJeSZQnzWD0</name>
-        <Point><coordinates>-77.0079074635,38.8897980765,0</coordinates></Point>
+        <Point><coordinates>-77.0079086827,38.8897926102,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>ntz8J5eFBH6g</name>
-        <Point><coordinates>-77.0099056135,38.8901088833,0</coordinates></Point>
+        <Point><coordinates>-77.0099044229,38.8900959973,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>o5ESRQACvFwS</name>
-        <Point><coordinates>-77.0096994999,38.8900964285,0</coordinates></Point>
+        <Point><coordinates>-77.0097026779,38.8900908913,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>pa0YYLSnHIN0</name>
-        <Point><coordinates>-77.0102006064,38.8901091054,0</coordinates></Point>
+        <Point><coordinates>-77.0101962218,38.8900955359,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>prkBlbR39wl6</name>
-        <Point><coordinates>-77.0104945579,38.8902944151,0</coordinates></Point>
+        <Point><coordinates>-77.010509045,38.8903032481,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>uF2EKNOE0jpP</name>
-        <Point><coordinates>-77.0099937851,38.8900915675,0</coordinates></Point>
+        <Point><coordinates>-77.0099934741,38.8900965523,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>xQzHp0aizbvU</name>
-        <Point><coordinates>-77.0103990875,38.8901906883,0</coordinates></Point>
+        <Point><coordinates>-77.0103977274,38.8902068382,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>xf5PcQJRH676</name>
-        <Point><coordinates>-77.0079926804,38.8898958896,0</coordinates></Point>
+        <Point><coordinates>-77.0080068345,38.889896554,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>1TszpHzh2B7A</name>
-        <Point><coordinates>-77.0103034508,38.8900979514,0</coordinates></Point>
+        <Point><coordinates>-77.0102920126,38.8901053994,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>2XUH3sL1gOJ6</name>
-        <Point><coordinates>-77.0079041899,38.8899955382,0</coordinates></Point>
+        <Point><coordinates>-77.0079054015,38.8900009692,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>4ENe4AvLzDXg</name>
-        <Point><coordinates>-77.010309679,38.890102146,0</coordinates></Point>
+        <Point><coordinates>-77.010291838,38.8901060239,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>4sOiN4xK6zIM</name>
-        <Point><coordinates>-77.0104059992,38.8899988486,0</coordinates></Point>
+        <Point><coordinates>-77.010390618,38.8899921167,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>4wIDySD7tKxo</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0088943111,38.8898993696,0</coordinates></Point>
+		<Point><coordinates>-77.0088994355,38.8898913425,0</coordinates></Point>
+		<description>https://youtu.be/ARMYQnEsL2g</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/ARMYQnEsL2g" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -2223,21 +2273,22 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>5WD4sk51MUzc</name>
-        <Point><coordinates>-77.0105076209,38.8897056886,0</coordinates></Point>
+        <Point><coordinates>-77.010494657,38.8897051132,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>6p2yjz4nBLcd</name>
-        <Point><coordinates>-77.0101941176,38.890296339,0</coordinates></Point>
+        <Point><coordinates>-77.0101973545,38.8903012119,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>7WJTCduTUKpl</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0103902421,38.8895045009,0</coordinates></Point>
+		<Point><coordinates>-77.0103910595,38.8895059246,0</coordinates></Point>
+		<description>https://youtu.be/81PBdFjC4Qw</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/81PBdFjC4Qw" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -2247,7 +2298,8 @@
 	      <Placemark>
 		<name>99Z6yIaTknNG</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0103051257,38.8895977234,0</coordinates></Point>
+		<Point><coordinates>-77.0103014543,38.8895917523,0</coordinates></Point>
+		<description>https://youtu.be/eHEv8KYhZYo</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/eHEv8KYhZYo" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -2257,7 +2309,8 @@
 	      <Placemark>
 		<name>9bJLFfPeZlk8</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0104080787,38.8897031821,0</coordinates></Point>
+		<Point><coordinates>-77.0103924518,38.8897015692,0</coordinates></Point>
+		<description>https://youtu.be/lhsEplQ-syk</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/lhsEplQ-syk" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -2267,14 +2320,15 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>9mroY9bM530c</name>
-        <Point><coordinates>-77.0082098504,38.8891979995,0</coordinates></Point>
+        <Point><coordinates>-77.0081929091,38.8892037078,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>BnoDFbldwdly</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0102915618,38.8899076139,0</coordinates></Point>
+		<Point><coordinates>-77.010302927,38.8899022777,0</coordinates></Point>
+		<description>https://youtu.be/aGmTkZCI-sU</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/aGmTkZCI-sU" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -2284,21 +2338,22 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>CdZE4mF5ht43</name>
-        <Point><coordinates>-77.0098094449,38.8896058484,0</coordinates></Point>
+        <Point><coordinates>-77.0098044094,38.8896033234,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>DOo0flQHUlS8</name>
-        <Point><coordinates>-77.010408062,38.8898937397,0</coordinates></Point>
+        <Point><coordinates>-77.0103906858,38.8898958341,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>FGl5ZhqR5Jpp</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0102919377,38.8899089476,0</coordinates></Point>
+		<Point><coordinates>-77.0102934133,38.8898999529,0</coordinates></Point>
+		<description>https://youtu.be/7ENr75rTNjQ</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/7ENr75rTNjQ" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -2308,7 +2363,8 @@
 	      <Placemark>
 		<name>FRPR3VqfBzIF</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0098043427,38.8901906046,0</coordinates></Point>
+		<Point><coordinates>-77.0098091345,38.8901974167,0</coordinates></Point>
+		<description>https://youtu.be/BKve9BsxLwc</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/BKve9BsxLwc" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -2318,49 +2374,50 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>GXN2iRqMxDy0</name>
-        <Point><coordinates>-77.0100970373,38.8907989983,0</coordinates></Point>
+        <Point><coordinates>-77.0100921199,38.8908091277,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>HpjpXqeN7btf</name>
-        <Point><coordinates>-77.0104946073,38.8901018316,0</coordinates></Point>
+        <Point><coordinates>-77.010495643,38.8901029301,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>I1lnSn9C5ZI6</name>
-        <Point><coordinates>-77.0071008907,38.8893958026,0</coordinates></Point>
+        <Point><coordinates>-77.0070964754,38.8893990842,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>IPhKCiCgj6h0</name>
-        <Point><coordinates>-77.0074913835,38.8901096043,0</coordinates></Point>
+        <Point><coordinates>-77.0075040581,38.8900902401,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>IXySAT5Xk5o8</name>
-        <Point><coordinates>-77.0105081471,38.8896072412,0</coordinates></Point>
+        <Point><coordinates>-77.0105034851,38.8895961606,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>JhXxhl6veRlW</name>
-        <Point><coordinates>-77.0105046449,38.889598529,0</coordinates></Point>
+        <Point><coordinates>-77.0105036111,38.8896046729,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>LuLFx5NpoK10</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0094084452,38.8904003519,0</coordinates></Point>
+		<Point><coordinates>-77.0094072646,38.8904037907,0</coordinates></Point>
+		<description>https://youtu.be/sHKgeCqs_io</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/sHKgeCqs_io" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -2370,14 +2427,15 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>MAUXuBm0ERQ6</name>
-        <Point><coordinates>-77.0103956469,38.889908853,0</coordinates></Point>
+        <Point><coordinates>-77.0103968808,38.8898902335,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>OgrPDRox3rYY</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0103007563,38.891106702,0</coordinates></Point>
+		<Point><coordinates>-77.0103007189,38.8911070427,0</coordinates></Point>
+		<description>https://youtu.be/f4O-eMAurJw</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/f4O-eMAurJw" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -2387,14 +2445,15 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>Q4noy1tDPvuw</name>
-        <Point><coordinates>-77.0078908068,38.8893083404,0</coordinates></Point>
+        <Point><coordinates>-77.0079073239,38.8892911862,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>QNPHAGgOFQAp</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.01079893,38.8904093233,0</coordinates></Point>
+		<Point><coordinates>-77.0107952251,38.8903907259,0</coordinates></Point>
+		<description>https://youtu.be/aIiL9OPTA84</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/aIiL9OPTA84" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -2404,259 +2463,260 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>SsiQNqkss9Cv</name>
-        <Point><coordinates>-77.0081907015,38.8908967072,0</coordinates></Point>
+        <Point><coordinates>-77.0082006728,38.8909082849,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>TmIiF8Y5fMPQ</name>
-        <Point><coordinates>-77.0107921591,38.8902989346,0</coordinates></Point>
+        <Point><coordinates>-77.0108019061,38.8903055352,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>TpGdYnhxD5kw</name>
-        <Point><coordinates>-77.0082079212,38.890908999,0</coordinates></Point>
+        <Point><coordinates>-77.008208841,38.8909073292,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>ViIpu8eZLGaK</name>
-        <Point><coordinates>-77.0101907124,38.890100562,0</coordinates></Point>
+        <Point><coordinates>-77.0101923624,38.8900920676,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>WD1im1v0jLMX</name>
-        <Point><coordinates>-77.0104023606,38.890095947,0</coordinates></Point>
+        <Point><coordinates>-77.0104053197,38.8900929532,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>WG1JCxpY4b1e</name>
-        <Point><coordinates>-77.0104990051,38.889897438,0</coordinates></Point>
+        <Point><coordinates>-77.0104912881,38.8899082592,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>XCMfOk219rxY</name>
-        <Point><coordinates>-77.0101953832,38.8897930462,0</coordinates></Point>
+        <Point><coordinates>-77.0101953201,38.8897996059,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>YyiW5o4xagEw</name>
-        <Point><coordinates>-77.010593551,38.8897065804,0</coordinates></Point>
+        <Point><coordinates>-77.0106066115,38.8897048008,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>ahY8n2R8hyxb</name>
-        <Point><coordinates>-77.0104942793,38.8897082295,0</coordinates></Point>
+        <Point><coordinates>-77.010497466,38.889704271,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>apk625yMXapx</name>
-        <Point><coordinates>-77.0103013857,38.889999392,0</coordinates></Point>
+        <Point><coordinates>-77.0103015726,38.8900001849,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>cH7hJfL5O4UU</name>
-        <Point><coordinates>-77.0104940417,38.8898932921,0</coordinates></Point>
+        <Point><coordinates>-77.0105009281,38.8898914194,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>cONvl0p08sMY</name>
-        <Point><coordinates>-77.0103984103,38.8901977772,0</coordinates></Point>
+        <Point><coordinates>-77.0104006289,38.8902076821,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>cZP6tyoSFNCq</name>
-        <Point><coordinates>-77.0103089086,38.8903915885,0</coordinates></Point>
+        <Point><coordinates>-77.0103032149,38.8904079452,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>csRsMMepEl92</name>
-        <Point><coordinates>-77.0100018495,38.890106159,0</coordinates></Point>
+        <Point><coordinates>-77.0100030672,38.8901071959,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>dH7rHe3d36Wo</name>
-        <Point><coordinates>-77.0100028928,38.8898086159,0</coordinates></Point>
+        <Point><coordinates>-77.0100009757,38.8897933821,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>e3gCJthSQe2u</name>
-        <Point><coordinates>-77.0078964115,38.8885955903,0</coordinates></Point>
+        <Point><coordinates>-77.0079017334,38.8886020031,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>f0iTgxeWp2XF</name>
-        <Point><coordinates>-77.0104005453,38.8900985031,0</coordinates></Point>
+        <Point><coordinates>-77.0104001556,38.8901074062,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>fyEPZnIr509X</name>
-        <Point><coordinates>-77.010195237,38.8900965735,0</coordinates></Point>
+        <Point><coordinates>-77.0101957797,38.8900956204,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>gBqTAHIlozbl</name>
-        <Point><coordinates>-77.0095054293,38.8903090183,0</coordinates></Point>
+        <Point><coordinates>-77.0094999382,38.8903067237,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>hUhwsaOzwD5t</name>
-        <Point><coordinates>-77.0106922269,38.890297287,0</coordinates></Point>
+        <Point><coordinates>-77.0107007639,38.8902907017,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>iIoPCwhtrBlk</name>
-        <Point><coordinates>-77.0107978132,38.8894933042,0</coordinates></Point>
+        <Point><coordinates>-77.0108000665,38.8894973048,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>iLnkEpoJQrGI</name>
-        <Point><coordinates>-77.0106072712,38.8901918284,0</coordinates></Point>
+        <Point><coordinates>-77.0106057189,38.8901933764,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>lTQpQNshDHhK</name>
-        <Point><coordinates>-77.010092894,38.890092892,0</coordinates></Point>
+        <Point><coordinates>-77.0100965707,38.8901027646,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>lefVDZuXCGQ6</name>
-        <Point><coordinates>-77.0097092824,38.8885932228,0</coordinates></Point>
+        <Point><coordinates>-77.0097035957,38.8885931672,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>mAeQjkqeA7Up</name>
-        <Point><coordinates>-77.0100079341,38.8900056941,0</coordinates></Point>
+        <Point><coordinates>-77.0100001574,38.8899971433,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>nmB6WgFjPbwx</name>
-        <Point><coordinates>-77.0086922244,38.8900984718,0</coordinates></Point>
+        <Point><coordinates>-77.0086967596,38.8900918501,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>pqQE5kr2gBxw</name>
-        <Point><coordinates>-77.0081915164,38.891297943,0</coordinates></Point>
+        <Point><coordinates>-77.0081951139,38.8913094505,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>q7BpcYyFpX7J</name>
-        <Point><coordinates>-77.0104014843,38.8904085863,0</coordinates></Point>
+        <Point><coordinates>-77.0104082231,38.8904056261,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>rxfGSkOAfeSK</name>
-        <Point><coordinates>-77.0068943136,38.8906016048,0</coordinates></Point>
+        <Point><coordinates>-77.0069019676,38.8905982829,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>seF40Ol6bgmX</name>
-        <Point><coordinates>-77.0097968537,38.8879997458,0</coordinates></Point>
+        <Point><coordinates>-77.0098037607,38.8879901412,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>tXIzFNM5yp9f</name>
-        <Point><coordinates>-77.0080094741,38.8898089601,0</coordinates></Point>
+        <Point><coordinates>-77.0080049732,38.8898051067,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>vmiDLX97YgI9</name>
-        <Point><coordinates>-77.0083951301,38.8897917729,0</coordinates></Point>
+        <Point><coordinates>-77.0083989564,38.8897976632,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>vpuHVwUv1HHH</name>
-        <Point><coordinates>-77.0103921881,38.8899033365,0</coordinates></Point>
+        <Point><coordinates>-77.0103981001,38.8898973483,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>yCEeH9uyYj0g</name>
-        <Point><coordinates>-77.0087074604,38.8900995002,0</coordinates></Point>
+        <Point><coordinates>-77.0086937671,38.890101516,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>0261f0TEn46K</name>
-        <Point><coordinates>-77.0098030653,38.8902079998,0</coordinates></Point>
+        <Point><coordinates>-77.0097949101,38.8902013529,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>059AWtA9q7PG</name>
-        <Point><coordinates>-77.0102932501,38.8899981664,0</coordinates></Point>
+        <Point><coordinates>-77.0102977584,38.8900034827,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>0jaHRfXYTxdk</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0105941004,38.8899009971,0</coordinates></Point>
+		<Point><coordinates>-77.0105917621,38.889898378,0</coordinates></Point>
+		<description>https://youtu.be/mfzxn2ufAEk</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/mfzxn2ufAEk" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -2666,14 +2726,15 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>1B7KFzHPr5ST</name>
-        <Point><coordinates>-77.0076026411,38.8902007048,0</coordinates></Point>
+        <Point><coordinates>-77.0076030832,38.8902082671,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>4AquVMy2oe6C</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0102986529,38.8900959113,0</coordinates></Point>
+		<Point><coordinates>-77.0102971247,38.890108861,0</coordinates></Point>
+		<description>https://youtu.be/ni-vNMZpVd4</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/ni-vNMZpVd4" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -2683,42 +2744,43 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>5F4X9i7bivo4</name>
-        <Point><coordinates>-77.0104958858,38.8900086413,0</coordinates></Point>
+        <Point><coordinates>-77.0105089152,38.8899996173,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>7zAhxOgZLwXG</name>
-        <Point><coordinates>-77.0106097388,38.8903010176,0</coordinates></Point>
+        <Point><coordinates>-77.010597714,38.890293045,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>8WBQGw7ppLmM</name>
-        <Point><coordinates>-77.0073901524,38.8901062983,0</coordinates></Point>
+        <Point><coordinates>-77.0073971655,38.8900928611,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>8rCpNjS3g3Ok</name>
-        <Point><coordinates>-77.0083080288,38.889703823,0</coordinates></Point>
+        <Point><coordinates>-77.0083050369,38.8897035009,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>9T1Wgyjt0vKj</name>
-        <Point><coordinates>-77.0085958528,38.8898097611,0</coordinates></Point>
+        <Point><coordinates>-77.0086035512,38.8898054867,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>Cg3gG8trkats</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0075078901,38.8900031743,0</coordinates></Point>
+		<Point><coordinates>-77.0075061485,38.8900039405,0</coordinates></Point>
+		<description>https://youtu.be/mDW0AmAzGNs</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/mDW0AmAzGNs" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -2728,7 +2790,8 @@
 	      <Placemark>
 		<name>DWGQ3kX1t1bF</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.009908738,38.8899931838,0</coordinates></Point>
+		<Point><coordinates>-77.0099028706,38.8899993495,0</coordinates></Point>
+		<description>https://youtu.be/4W4tB61yqJo</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/4W4tB61yqJo" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -2738,21 +2801,22 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>Dsw78s0t9tya</name>
-        <Point><coordinates>-77.0104000805,38.8899940373,0</coordinates></Point>
+        <Point><coordinates>-77.0103959477,38.8899904579,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>EvuXaSzgYJ14</name>
-        <Point><coordinates>-77.0107027747,38.8902032498,0</coordinates></Point>
+        <Point><coordinates>-77.0106904227,38.8902046403,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>G81yHTuMUvlX</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0103974705,38.8896915496,0</coordinates></Point>
+		<Point><coordinates>-77.0104033159,38.8897067736,0</coordinates></Point>
+		<description>https://youtu.be/-q8kpZ9O6BI</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/-q8kpZ9O6BI" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -2762,21 +2826,22 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>GRURef1jtwIy</name>
-        <Point><coordinates>-77.0082990537,38.8896977666,0</coordinates></Point>
+        <Point><coordinates>-77.0082901475,38.8897084687,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>GsVZm7o33oLw</name>
-        <Point><coordinates>-77.0103077563,38.8902939417,0</coordinates></Point>
+        <Point><coordinates>-77.0102999948,38.8902908092,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>H06oXU0HGpUM</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0092926964,38.8910914197,0</coordinates></Point>
+		<Point><coordinates>-77.0092934981,38.8911019343,0</coordinates></Point>
+		<description>https://youtu.be/8urKRKrtteM</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/8urKRKrtteM" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -2786,7 +2851,8 @@
 	      <Placemark>
 		<name>HpQ07PUDmWDk</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0103902833,38.8900045057,0</coordinates></Point>
+		<Point><coordinates>-77.0104064473,38.8900087636,0</coordinates></Point>
+		<description>https://youtu.be/s1zA8X2M7qk</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/s1zA8X2M7qk" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -2796,7 +2862,8 @@
 	      <Placemark>
 		<name>JmnaAbNVz3nl</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0095993892,38.890897358,0</coordinates></Point>
+		<Point><coordinates>-77.0095937727,38.8909088903,0</coordinates></Point>
+		<description>https://youtu.be/DFCqEbqu8V8</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/DFCqEbqu8V8" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -2806,7 +2873,8 @@
 	      <Placemark>
 		<name>KQ0TpQnsiuCS</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0086048986,38.8883010029,0</coordinates></Point>
+		<Point><coordinates>-77.0086012822,38.8882956985,0</coordinates></Point>
+		<description>https://youtu.be/MKPWCVkazCs</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/MKPWCVkazCs" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -2816,287 +2884,288 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>Km2S7d92uPH8</name>
-        <Point><coordinates>-77.0107999924,38.8902091595,0</coordinates></Point>
+        <Point><coordinates>-77.0107976054,38.8901990252,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>OBZizPT08K46</name>
-        <Point><coordinates>-77.0104074649,38.8896966008,0</coordinates></Point>
+        <Point><coordinates>-77.010404018,38.8896918987,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>P965teMlfY6l</name>
-        <Point><coordinates>-77.0101941456,38.8896082355,0</coordinates></Point>
+        <Point><coordinates>-77.0102036325,38.8896035873,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>PE6kDnMTh8Z6</name>
-        <Point><coordinates>-77.0091033285,38.8907998238,0</coordinates></Point>
+        <Point><coordinates>-77.0091047173,38.8907933913,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>Qau1A0qmEkCT</name>
-        <Point><coordinates>-77.01009071,38.8897921827,0</coordinates></Point>
+        <Point><coordinates>-77.0101086242,38.889809924,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>S3xTtPUyKMam</name>
-        <Point><coordinates>-77.0094064871,38.8904952357,0</coordinates></Point>
+        <Point><coordinates>-77.0093933658,38.8905023451,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>T1QC0HCgDOa9</name>
-        <Point><coordinates>-77.0080063745,38.8913048349,0</coordinates></Point>
+        <Point><coordinates>-77.0079996961,38.8913009023,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>T4Umz6d0SMnc</name>
-        <Point><coordinates>-77.008492667,38.8895914817,0</coordinates></Point>
+        <Point><coordinates>-77.0084900957,38.8896035025,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>WaNexB6Lznsq</name>
-        <Point><coordinates>-77.0107961687,38.8894982841,0</coordinates></Point>
+        <Point><coordinates>-77.0107954908,38.8895025467,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>YJjhdVowJOyA</name>
-        <Point><coordinates>-77.0105990801,38.8894035375,0</coordinates></Point>
+        <Point><coordinates>-77.0106021331,38.889400403,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>YOZZhOBy8vLv</name>
-        <Point><coordinates>-77.0102051725,38.8894915127,0</coordinates></Point>
+        <Point><coordinates>-77.0101973849,38.8895010523,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>c0nIoRasIm5z</name>
-        <Point><coordinates>-77.0082999331,38.8898008755,0</coordinates></Point>
+        <Point><coordinates>-77.0083008972,38.8898066283,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>c9JUtuCVndZf</name>
-        <Point><coordinates>-77.0096936268,38.8900048567,0</coordinates></Point>
+        <Point><coordinates>-77.0096929915,38.8899939166,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>cP14vEjjZT4J</name>
-        <Point><coordinates>-77.0103960066,38.8902025261,0</coordinates></Point>
+        <Point><coordinates>-77.0103971892,38.890206037,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>dTs1N3WVh3h8</name>
-        <Point><coordinates>-77.0098908498,38.8899990467,0</coordinates></Point>
+        <Point><coordinates>-77.0098962218,38.8900091045,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>fXCW0v9cFfE4</name>
-        <Point><coordinates>-77.0080930926,38.8897904379,0</coordinates></Point>
+        <Point><coordinates>-77.0080964231,38.8898057628,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>hL2yyR9YsFmy</name>
-        <Point><coordinates>-77.0105078796,38.8899035042,0</coordinates></Point>
+        <Point><coordinates>-77.010506419,38.889895444,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>ih45GbhXmiXD</name>
-        <Point><coordinates>-77.0105053653,38.8897985148,0</coordinates></Point>
+        <Point><coordinates>-77.0105063103,38.8897998116,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>kAv6wX8KsD1i</name>
-        <Point><coordinates>-77.0102992264,38.8901908389,0</coordinates></Point>
+        <Point><coordinates>-77.0103096149,38.8901943099,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>kL7oxKMD3okz</name>
-        <Point><coordinates>-77.010404757,38.8905953607,0</coordinates></Point>
+        <Point><coordinates>-77.0103979351,38.8906059976,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>kR4Y0kFSrb9C</name>
-        <Point><coordinates>-77.0105020238,38.8901995982,0</coordinates></Point>
+        <Point><coordinates>-77.0104910304,38.8902025524,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>kneFRcEfGSQC</name>
-        <Point><coordinates>-77.0095980419,38.8901047391,0</coordinates></Point>
+        <Point><coordinates>-77.0096023896,38.8901089614,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>lM9IhrO85Tyy</name>
-        <Point><coordinates>-77.0105013761,38.8900007818,0</coordinates></Point>
+        <Point><coordinates>-77.0105068421,38.8899972262,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>lyDrgBAPM8U5</name>
-        <Point><coordinates>-77.0102989073,38.8899073857,0</coordinates></Point>
+        <Point><coordinates>-77.0103078825,38.8899014756,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>mAXJK2q00tGs</name>
-        <Point><coordinates>-77.0104931685,38.8898050635,0</coordinates></Point>
+        <Point><coordinates>-77.010492077,38.8897934744,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>nA2Mp778j1ng</name>
-        <Point><coordinates>-77.010602947,38.8899073374,0</coordinates></Point>
+        <Point><coordinates>-77.0106083912,38.889898066,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>sMxOkJCipo0O</name>
-        <Point><coordinates>-77.0103024524,38.8910065357,0</coordinates></Point>
+        <Point><coordinates>-77.0102960072,38.8910085656,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>sjQ6YrVTYuw6</name>
-        <Point><coordinates>-77.0108052785,38.8893917901,0</coordinates></Point>
+        <Point><coordinates>-77.01079979,38.8893987845,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>t4l1G51olUAh</name>
-        <Point><coordinates>-77.0103015334,38.8895082721,0</coordinates></Point>
+        <Point><coordinates>-77.0103083602,38.8895088063,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>uLrMp3ouT1vK</name>
-        <Point><coordinates>-77.0104948652,38.8901007495,0</coordinates></Point>
+        <Point><coordinates>-77.0104989686,38.8900952457,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>v86cAAcKaAx7</name>
-        <Point><coordinates>-77.0107005371,38.8892943725,0</coordinates></Point>
+        <Point><coordinates>-77.0107082622,38.889291843,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>vwn5xmDvxfqV</name>
-        <Point><coordinates>-77.0102051474,38.8896986677,0</coordinates></Point>
+        <Point><coordinates>-77.0102085669,38.8897093921,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>wA0ahVX5oGl8</name>
-        <Point><coordinates>-77.0105015482,38.8898038724,0</coordinates></Point>
+        <Point><coordinates>-77.0105016636,38.8898060335,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>wd3geYW1nvRL</name>
-        <Point><coordinates>-77.0086941863,38.8900981653,0</coordinates></Point>
+        <Point><coordinates>-77.0087006187,38.8901078783,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>wfRxIgZLZRUF</name>
-        <Point><coordinates>-77.0080048372,38.8897914098,0</coordinates></Point>
+        <Point><coordinates>-77.0080054421,38.8898038587,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>ymitmJGIEUH5</name>
-        <Point><coordinates>-77.0104035056,38.8901903231,0</coordinates></Point>
+        <Point><coordinates>-77.0104076007,38.8901978983,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>14bBcpxpQBmB</name>
-        <Point><coordinates>-77.0105909516,38.8898997437,0</coordinates></Point>
+        <Point><coordinates>-77.010593813,38.8898912682,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>1SiUfBSz1BbU</name>
-        <Point><coordinates>-77.0074984439,38.8912903847,0</coordinates></Point>
+        <Point><coordinates>-77.0075078351,38.8912953074,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>2J39t1TfSZLB</name>
-        <Point><coordinates>-77.0106931764,38.8900036928,0</coordinates></Point>
+        <Point><coordinates>-77.0106973181,38.8900000088,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>2gQjxzkGI6EX</name>
-        <Point><coordinates>-77.0072029241,38.8898960243,0</coordinates></Point>
+        <Point><coordinates>-77.0072084314,38.8898941667,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>3ZXOHhUdKlYd</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0099998582,38.8899011915,0</coordinates></Point>
+		<Point><coordinates>-77.0100012409,38.8899037656,0</coordinates></Point>
+		<description>https://youtu.be/fKfEkALRSlA</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/fKfEkALRSlA" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -3106,21 +3175,22 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>4VNsp0xOXD9Z</name>
-        <Point><coordinates>-77.007505372,38.8887967122,0</coordinates></Point>
+        <Point><coordinates>-77.0074921582,38.8887934068,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>65TvMK7dx9fy</name>
-        <Point><coordinates>-77.0104929684,38.8897901791,0</coordinates></Point>
+        <Point><coordinates>-77.0104993087,38.8897981998,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>7ImZGTdfdcUk</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0099932995,38.8897922702,0</coordinates></Point>
+		<Point><coordinates>-77.0099915376,38.8897980108,0</coordinates></Point>
+		<description>https://youtu.be/4EZDh_taH44</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/4EZDh_taH44" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -3130,14 +3200,15 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>7eLmGW77Y5o1</name>
-        <Point><coordinates>-77.010707895,38.8900932537,0</coordinates></Point>
+        <Point><coordinates>-77.0106907808,38.8900946528,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>8ziKp2FKa3Sb</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0102948494,38.889697182,0</coordinates></Point>
+		<Point><coordinates>-77.0102953819,38.8896971414,0</coordinates></Point>
+		<description>https://youtu.be/YyekijGCiHY</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/YyekijGCiHY" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -3147,21 +3218,22 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>9M4Lnsf790sK</name>
-        <Point><coordinates>-77.0094948041,38.8904035326,0</coordinates></Point>
+        <Point><coordinates>-77.0094987308,38.8904058171,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>9iAT30LM1MKX</name>
-        <Point><coordinates>-77.0104950132,38.889709159,0</coordinates></Point>
+        <Point><coordinates>-77.0104970012,38.8897026573,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>CKSVgexBTTpn</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0108089838,38.889808333,0</coordinates></Point>
+		<Point><coordinates>-77.0107984586,38.8898087117,0</coordinates></Point>
+		<description>https://youtu.be/BnkWf9woXgo</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/BnkWf9woXgo" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -3171,49 +3243,50 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>GNugjVRmu3Bt</name>
-        <Point><coordinates>-77.007997025,38.8897920263,0</coordinates></Point>
+        <Point><coordinates>-77.0079921922,38.8898046575,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>Gojopp7rDlG9</name>
-        <Point><coordinates>-77.0096969775,38.8900094195,0</coordinates></Point>
+        <Point><coordinates>-77.0096951029,38.8900026418,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>H3xEi7VU7UMH</name>
-        <Point><coordinates>-77.0089937105,38.8911028016,0</coordinates></Point>
+        <Point><coordinates>-77.0090009536,38.8911052013,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>HP1SIkO4eErL</name>
-        <Point><coordinates>-77.0100085009,38.8899903574,0</coordinates></Point>
+        <Point><coordinates>-77.0099963291,38.8900021049,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>J9hbVTooDYoT</name>
-        <Point><coordinates>-77.0077073022,38.88980135,0</coordinates></Point>
+        <Point><coordinates>-77.0077059844,38.889799988,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>LAIAfAzBL39U</name>
-        <Point><coordinates>-77.0083927984,38.8899033856,0</coordinates></Point>
+        <Point><coordinates>-77.0083985501,38.8899093096,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>LzjH34PY3gv5</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0102991342,38.8895008628,0</coordinates></Point>
+		<Point><coordinates>-77.0103045595,38.8894957141,0</coordinates></Point>
+		<description>https://youtu.be/yegFWdiUsX8</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/yegFWdiUsX8" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -3223,21 +3296,22 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>MwV2lwWVgAF3</name>
-        <Point><coordinates>-77.0099015185,38.8898018268,0</coordinates></Point>
+        <Point><coordinates>-77.0099039647,38.8897932904,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>NU3mL7uF5ryx</name>
-        <Point><coordinates>-77.0098035202,38.8909982395,0</coordinates></Point>
+        <Point><coordinates>-77.0098057649,38.8909941319,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>NUpAt87SN70T</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.010494456,38.8899978942,0</coordinates></Point>
+		<Point><coordinates>-77.0105030404,38.8899967553,0</coordinates></Point>
+		<description>https://youtu.be/rMOyowuM40k</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/rMOyowuM40k" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -3247,287 +3321,288 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>ODwhqOERzT0b</name>
-        <Point><coordinates>-77.0098916813,38.8900096996,0</coordinates></Point>
+        <Point><coordinates>-77.0099081803,38.8900085465,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>PtX0m5xmBWoZ</name>
-        <Point><coordinates>-77.0104963513,38.8898035268,0</coordinates></Point>
+        <Point><coordinates>-77.0104949598,38.8897990161,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>Rc6DVzsHCQh8</name>
-        <Point><coordinates>-77.0073983017,38.8898041924,0</coordinates></Point>
+        <Point><coordinates>-77.0073931589,38.8897948795,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>ScT8XU9t70YC</name>
-        <Point><coordinates>-77.0103022942,38.8900084999,0</coordinates></Point>
+        <Point><coordinates>-77.0102910494,38.8899980721,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>T57zH8SK96yv</name>
-        <Point><coordinates>-77.0101093499,38.8898063522,0</coordinates></Point>
+        <Point><coordinates>-77.0100967179,38.8898062975,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>TCEV0FC63Cns</name>
-        <Point><coordinates>-77.0102926956,38.8902063182,0</coordinates></Point>
+        <Point><coordinates>-77.0102995198,38.8901900598,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>VVtO7erqIcAG</name>
-        <Point><coordinates>-77.0105039442,38.8894946664,0</coordinates></Point>
+        <Point><coordinates>-77.0104952032,38.8895088251,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>X1mc2UButF8U</name>
-        <Point><coordinates>-77.010003161,38.8898041036,0</coordinates></Point>
+        <Point><coordinates>-77.0099958816,38.8897901783,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>X9301RyNxl2u</name>
-        <Point><coordinates>-77.0103097053,38.8904059108,0</coordinates></Point>
+        <Point><coordinates>-77.0103008375,38.8904077917,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>XVwLXkaqrq94</name>
-        <Point><coordinates>-77.0104071898,38.889900988,0</coordinates></Point>
+        <Point><coordinates>-77.0103960004,38.8898959904,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>XZeZIBxC6R64</name>
-        <Point><coordinates>-77.0086097302,38.8898060225,0</coordinates></Point>
+        <Point><coordinates>-77.008607526,38.8897926628,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>YmMpgeN8t8t1</name>
-        <Point><coordinates>-77.0075977218,38.8914964661,0</coordinates></Point>
+        <Point><coordinates>-77.0075928771,38.8914909789,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>aRWTR7sk7i90</name>
-        <Point><coordinates>-77.0103051938,38.8902028916,0</coordinates></Point>
+        <Point><coordinates>-77.0103056908,38.8901926343,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>b4zuuhfp6WDv</name>
-        <Point><coordinates>-77.0100948277,38.8897979018,0</coordinates></Point>
+        <Point><coordinates>-77.0100905524,38.8897934682,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>eMDjjMzm6kPk</name>
-        <Point><coordinates>-77.0099985718,38.8898026068,0</coordinates></Point>
+        <Point><coordinates>-77.0099911782,38.8898016184,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>g2PtWX9a3FMp</name>
-        <Point><coordinates>-77.0104928908,38.8901087726,0</coordinates></Point>
+        <Point><coordinates>-77.0105089591,38.8900947752,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>h14pdTaJ1a90</name>
-        <Point><coordinates>-77.010398242,38.8900916021,0</coordinates></Point>
+        <Point><coordinates>-77.0104037585,38.8900991251,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>iNUzEnL2twRC</name>
-        <Point><coordinates>-77.0103046002,38.8898969286,0</coordinates></Point>
+        <Point><coordinates>-77.0102914161,38.8899025524,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>iRWQjcZoNssg</name>
-        <Point><coordinates>-77.0083939708,38.8906936822,0</coordinates></Point>
+        <Point><coordinates>-77.0084050483,38.8907085826,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>j4xU3ggaxAmU</name>
-        <Point><coordinates>-77.0104907375,38.8901033604,0</coordinates></Point>
+        <Point><coordinates>-77.0104901644,38.8901063383,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>jBCihjRZf0Q3</name>
-        <Point><coordinates>-77.0101917374,38.8895938771,0</coordinates></Point>
+        <Point><coordinates>-77.0102027685,38.8896068821,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>jdlnafwV1RqD</name>
-        <Point><coordinates>-77.0099044293,38.8900091323,0</coordinates></Point>
+        <Point><coordinates>-77.0099078113,38.8899943338,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>kCmbHkMOiPUj</name>
-        <Point><coordinates>-77.010690446,38.8902904803,0</coordinates></Point>
+        <Point><coordinates>-77.0107056836,38.8902795728,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>ksMt1rnBR6TT</name>
-        <Point><coordinates>-77.0102944494,38.8897984589,0</coordinates></Point>
+        <Point><coordinates>-77.0102930505,38.8898048337,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>l6zcfjWByRw1</name>
-        <Point><coordinates>-77.0097076336,38.8899994004,0</coordinates></Point>
+        <Point><coordinates>-77.0097049233,38.8900046358,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>lla5uObGdq5U</name>
-        <Point><coordinates>-77.010409399,38.8902993866,0</coordinates></Point>
+        <Point><coordinates>-77.0104057917,38.8902933633,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>mNHDBC1SRe5i</name>
-        <Point><coordinates>-77.0078066041,38.8897918278,0</coordinates></Point>
+        <Point><coordinates>-77.0078058063,38.8897978509,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>nkL4Fpk5C8U1</name>
-        <Point><coordinates>-77.0107073597,38.8903060071,0</coordinates></Point>
+        <Point><coordinates>-77.0107012903,38.8902988242,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>rddR5CxtyA92</name>
-        <Point><coordinates>-77.0102973547,38.8898975564,0</coordinates></Point>
+        <Point><coordinates>-77.0102916926,38.8899050329,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>riReyNCVV3dd</name>
-        <Point><coordinates>-77.0099086956,38.8899965929,0</coordinates></Point>
+        <Point><coordinates>-77.0098910303,38.8900002401,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>rvvchSNi1zP1</name>
-        <Point><coordinates>-77.0102978696,38.8902038428,0</coordinates></Point>
+        <Point><coordinates>-77.0103015932,38.890197103,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>sGrzbuVjrLZ1</name>
-        <Point><coordinates>-77.0083095371,38.8898929942,0</coordinates></Point>
+        <Point><coordinates>-77.0083008054,38.8899054814,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>srqxy751uhoy</name>
-        <Point><coordinates>-77.0100908624,38.8894913612,0</coordinates></Point>
+        <Point><coordinates>-77.0100994029,38.8895026518,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>weArmA6HzH6s</name>
-        <Point><coordinates>-77.0101049475,38.8902086273,0</coordinates></Point>
+        <Point><coordinates>-77.0100950738,38.8901902668,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>wvTbtnGOAknX</name>
-        <Point><coordinates>-77.0090064981,38.8909041263,0</coordinates></Point>
+        <Point><coordinates>-77.0090074983,38.8908964828,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>xgbJtf76wElz</name>
-        <Point><coordinates>-77.0087924979,38.8904010645,0</coordinates></Point>
+        <Point><coordinates>-77.0088027607,38.8903924586,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>ycxk7J43m1BR</name>
-        <Point><coordinates>-77.0103057406,38.8901020255,0</coordinates></Point>
+        <Point><coordinates>-77.0102900108,38.8901013852,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>zq7UIxedJaq1</name>
-        <Point><coordinates>-77.010795764,38.8898947008,0</coordinates></Point>
+        <Point><coordinates>-77.0108070979,38.8898986384,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>0MuvObe1mK4G</name>
-        <Point><coordinates>-77.010497363,38.8901058671,0</coordinates></Point>
+        <Point><coordinates>-77.0104921859,38.8901097499,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>1Imn9XMEtSnj</name>
-        <Point><coordinates>-77.0103048416,38.8898006978,0</coordinates></Point>
+        <Point><coordinates>-77.0102939641,38.8898068217,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>27ZbRGWbHX86</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0073902374,38.8898098318,0</coordinates></Point>
+		<Point><coordinates>-77.007409943,38.8897946359,0</coordinates></Point>
+		<description>https://youtu.be/Clkmb4AiJmE</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/Clkmb4AiJmE" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -3537,14 +3612,15 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>2MGQVZjSLNJv</name>
-        <Point><coordinates>-77.009800922,38.8912930362,0</coordinates></Point>
+        <Point><coordinates>-77.0097921862,38.8912966381,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>2XwJn0Iqphrc</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0092919599,38.8909929021,0</coordinates></Point>
+		<Point><coordinates>-77.0092945461,38.8910050467,0</coordinates></Point>
+		<description>https://youtu.be/MWm36_n5JB4</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/MWm36_n5JB4" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -3554,14 +3630,15 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>35iIAVuIAijR</name>
-        <Point><coordinates>-77.0104008494,38.8898978964,0</coordinates></Point>
+        <Point><coordinates>-77.0103933317,38.8898992766,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>3PkLpHaNWWeH</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0104087395,38.8898961141,0</coordinates></Point>
+		<Point><coordinates>-77.0104068147,38.8899011493,0</coordinates></Point>
+		<description>https://youtu.be/FfU36S_nEwI</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/FfU36S_nEwI" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -3571,14 +3648,15 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>6ZJ1lpw5mEMQ</name>
-        <Point><coordinates>-77.0094985735,38.8910062688,0</coordinates></Point>
+        <Point><coordinates>-77.0095056595,38.891007306,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>8fsC1EfPO70k</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0081980517,38.8897963168,0</coordinates></Point>
+		<Point><coordinates>-77.0082082277,38.8898013065,0</coordinates></Point>
+		<description>https://youtu.be/jCJb07N7MBc</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/jCJb07N7MBc" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -3588,7 +3666,8 @@
 	      <Placemark>
 		<name>980wtH06yGul</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0106019074,38.8901960581,0</coordinates></Point>
+		<Point><coordinates>-77.0106012733,38.8902061233,0</coordinates></Point>
+		<description>https://youtu.be/bQsAGbJM40A</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/bQsAGbJM40A" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -3598,14 +3677,15 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>A1z3oGHrEMaJ</name>
-        <Point><coordinates>-77.0085004684,38.889804575,0</coordinates></Point>
+        <Point><coordinates>-77.0085019035,38.8897969847,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>B7yh3YgnbcFT</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0106088086,38.8900062812,0</coordinates></Point>
+		<Point><coordinates>-77.010600882,38.8900082562,0</coordinates></Point>
+		<description>https://youtu.be/b6JFPBvIRTU</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/b6JFPBvIRTU" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -3615,21 +3695,22 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>CN67oIug5zAh</name>
-        <Point><coordinates>-77.0084954733,38.8897986278,0</coordinates></Point>
+        <Point><coordinates>-77.0084925958,38.8898020497,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>CVJciWvfzVc1</name>
-        <Point><coordinates>-77.0099933892,38.8899914841,0</coordinates></Point>
+        <Point><coordinates>-77.0099928211,38.8899909297,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>CgZxY8PDNM9m</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0103051757,38.8898933941,0</coordinates></Point>
+		<Point><coordinates>-77.01030767,38.8898911209,0</coordinates></Point>
+		<description>https://youtu.be/6o3ks4I167k</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/6o3ks4I167k" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -3639,21 +3720,22 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>D7gBZ66rFsaJ</name>
-        <Point><coordinates>-77.0095069956,38.8903060728,0</coordinates></Point>
+        <Point><coordinates>-77.0095042771,38.8903046342,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>DGpUSlu6o2yD</name>
-        <Point><coordinates>-77.0099998125,38.8900934615,0</coordinates></Point>
+        <Point><coordinates>-77.0099917658,38.8901099939,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>EjkHpFX9ATgp</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0094905307,38.8892097514,0</coordinates></Point>
+		<Point><coordinates>-77.0094951707,38.8892043024,0</coordinates></Point>
+		<description>https://youtu.be/kpc1XvQpdkY</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/kpc1XvQpdkY" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -3663,21 +3745,22 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>H2oGTBXUaYus</name>
-        <Point><coordinates>-77.0097013134,38.8899936195,0</coordinates></Point>
+        <Point><coordinates>-77.009697648,38.890002057,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>IA3EZSOAq1Mo</name>
-        <Point><coordinates>-77.0102077156,38.8903968904,0</coordinates></Point>
+        <Point><coordinates>-77.0102030729,38.8904011142,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>IjCvip4YonXA</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0105976213,38.889896598,0</coordinates></Point>
+		<Point><coordinates>-77.0106048665,38.8899080397,0</coordinates></Point>
+		<description>https://youtu.be/FmrIKCDNFLk</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/FmrIKCDNFLk" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -3687,14 +3770,15 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>Kv5stfJPDE5u</name>
-        <Point><coordinates>-77.0102981097,38.8903946383,0</coordinates></Point>
+        <Point><coordinates>-77.0103019464,38.8904015506,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>Lap0L50xI3S5</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0104034201,38.8903974453,0</coordinates></Point>
+		<Point><coordinates>-77.0103982514,38.8904055435,0</coordinates></Point>
+		<description>https://youtu.be/V2hXOfvilSc</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/V2hXOfvilSc" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -3704,21 +3788,22 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>OIuhPB7lv5Y0</name>
-        <Point><coordinates>-77.0087028994,38.8901079916,0</coordinates></Point>
+        <Point><coordinates>-77.0087005441,38.8900949983,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>OUJYa3npW0oE</name>
-        <Point><coordinates>-77.0083969427,38.888394659,0</coordinates></Point>
+        <Point><coordinates>-77.0083940615,38.8883990012,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>PQdPojnDKG5e</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0094013336,38.890300786,0</coordinates></Point>
+		<Point><coordinates>-77.009397553,38.8903019675,0</coordinates></Point>
+		<description>https://youtu.be/d0M_wMeNFEw</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/d0M_wMeNFEw" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -3728,14 +3813,15 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>PQxU7YHg4q2t</name>
-        <Point><coordinates>-77.0103051881,38.8899974529,0</coordinates></Point>
+        <Point><coordinates>-77.0102973474,38.8900017026,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>PwoSeJkaPd5b</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0102036812,38.8900965803,0</coordinates></Point>
+		<Point><coordinates>-77.0102093419,38.8900965987,0</coordinates></Point>
+		<description>https://youtu.be/0fY00cSSSko</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/0fY00cSSSko" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -3745,7 +3831,8 @@
 	      <Placemark>
 		<name>QuamW4hp4JQw</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0100932621,38.8899917982,0</coordinates></Point>
+		<Point><coordinates>-77.0100944619,38.8899919719,0</coordinates></Point>
+		<description>https://youtu.be/XHWw3-qeGBc</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/XHWw3-qeGBc" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -3755,294 +3842,295 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>Rp3qrB15ypiE</name>
-        <Point><coordinates>-77.0100923287,38.8899007286,0</coordinates></Point>
+        <Point><coordinates>-77.0101006134,38.8898991395,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>SjnwtUGu3Gnr</name>
-        <Point><coordinates>-77.0102920859,38.8898998691,0</coordinates></Point>
+        <Point><coordinates>-77.0103072464,38.8899012997,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>U10ndi3PaWJm</name>
-        <Point><coordinates>-77.0102967118,38.8898022562,0</coordinates></Point>
+        <Point><coordinates>-77.010298629,38.8898066816,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>UC7nTJ2ha9WM</name>
-        <Point><coordinates>-77.0101965082,38.8898049338,0</coordinates></Point>
+        <Point><coordinates>-77.0101947957,38.8898056635,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>UiC5TplHHHMG</name>
-        <Point><coordinates>-77.0108066206,38.8903938288,0</coordinates></Point>
+        <Point><coordinates>-77.0108055269,38.8903997954,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>X3bX08cgxZ14</name>
-        <Point><coordinates>-77.0106004667,38.8900059749,0</coordinates></Point>
+        <Point><coordinates>-77.0106065141,38.8899931558,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>ZLCE4QPPz3kW</name>
-        <Point><coordinates>-77.0103060061,38.8898962116,0</coordinates></Point>
+        <Point><coordinates>-77.0102910018,38.8898902334,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>auWQW8YMv3Dn</name>
-        <Point><coordinates>-77.0100906813,38.8897070482,0</coordinates></Point>
+        <Point><coordinates>-77.0100942336,38.8897051834,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>cH0PB1OhfbT8</name>
-        <Point><coordinates>-77.0102975201,38.8898091349,0</coordinates></Point>
+        <Point><coordinates>-77.0102972907,38.8898097202,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>dCYGQP2fKOZf</name>
-        <Point><coordinates>-77.0103037695,38.8897923151,0</coordinates></Point>
+        <Point><coordinates>-77.0102924657,38.8897995279,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>dNQEWzlDBIPp</name>
-        <Point><coordinates>-77.0104994906,38.8901950013,0</coordinates></Point>
+        <Point><coordinates>-77.0105067916,38.8902001864,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>ehioYC9DKqYv</name>
-        <Point><coordinates>-77.0102034996,38.8896011732,0</coordinates></Point>
+        <Point><coordinates>-77.0101977597,38.889605435,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>f6rOHIXG9rrO</name>
-        <Point><coordinates>-77.0075092097,38.8901958342,0</coordinates></Point>
+        <Point><coordinates>-77.0074902458,38.8901922009,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>g09yZZCplavI</name>
-        <Point><coordinates>-77.0091094883,38.8899092357,0</coordinates></Point>
+        <Point><coordinates>-77.0090999379,38.8899065645,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>gGFU7fWrafzY</name>
-        <Point><coordinates>-77.0089944559,38.8905001487,0</coordinates></Point>
+        <Point><coordinates>-77.0090038534,38.8905044455,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>gMBFKGBhPEWE</name>
-        <Point><coordinates>-77.0106023066,38.8900072308,0</coordinates></Point>
+        <Point><coordinates>-77.0105904007,38.8900025699,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>iGMPJYFvf344</name>
-        <Point><coordinates>-77.0105085571,38.8900939489,0</coordinates></Point>
+        <Point><coordinates>-77.0105054285,38.8900998675,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>iYSwurwmWhcQ</name>
-        <Point><coordinates>-77.0103974431,38.889705918,0</coordinates></Point>
+        <Point><coordinates>-77.010393116,38.8897040047,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>k5DNY63jXHR9</name>
-        <Point><coordinates>-77.0087046098,38.8899071908,0</coordinates></Point>
+        <Point><coordinates>-77.0086997329,38.8899030819,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>mMG01UJganoD</name>
-        <Point><coordinates>-77.0106011361,38.8900036117,0</coordinates></Point>
+        <Point><coordinates>-77.0106043089,38.8899964315,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>nHwELP7CxOl0</name>
-        <Point><coordinates>-77.0100031077,38.8900095629,0</coordinates></Point>
+        <Point><coordinates>-77.0100038296,38.8899930164,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>nUo6Jkrm2lXO</name>
-        <Point><coordinates>-77.0100932202,38.8896850801,0</coordinates></Point>
+        <Point><coordinates>-77.0101079182,38.8896817268,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>nWXZaWKtzRzw</name>
-        <Point><coordinates>-77.010800551,38.8895091853,0</coordinates></Point>
+        <Point><coordinates>-77.0107919773,38.8895075026,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>oVUX6YjtEszI</name>
-        <Point><coordinates>-77.0097017021,38.8899925544,0</coordinates></Point>
+        <Point><coordinates>-77.0096975415,38.8899907196,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>pLfYimJ25ZbI</name>
-        <Point><coordinates>-77.0085084794,38.8899063215,0</coordinates></Point>
+        <Point><coordinates>-77.0084906433,38.8899093782,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>pt4FtwnKbCIy</name>
-        <Point><coordinates>-77.0101930213,38.8901902134,0</coordinates></Point>
+        <Point><coordinates>-77.0102058446,38.8901919526,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>qCFXkHRg1tTp</name>
-        <Point><coordinates>-77.0103089705,38.8900017311,0</coordinates></Point>
+        <Point><coordinates>-77.0102966427,38.890002989,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>qLOGkDrTrDbW</name>
-        <Point><coordinates>-77.0107068687,38.8902952192,0</coordinates></Point>
+        <Point><coordinates>-77.0106942808,38.8902978541,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>stnyLSVNIG37</name>
-        <Point><coordinates>-77.0100036652,38.8901065879,0</coordinates></Point>
+        <Point><coordinates>-77.0099986908,38.8901060994,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>tpU7DnXEqFVB</name>
-        <Point><coordinates>-77.0100988493,38.8897930777,0</coordinates></Point>
+        <Point><coordinates>-77.0101066226,38.8897999023,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>u9hBZAW6V6Ft</name>
-        <Point><coordinates>-77.010590383,38.8901954262,0</coordinates></Point>
+        <Point><coordinates>-77.0105978813,38.8902070924,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>uZGI5GhAnrYL</name>
-        <Point><coordinates>-77.0071941657,38.8902040776,0</coordinates></Point>
+        <Point><coordinates>-77.0072004799,38.8901902115,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>urT0pVgcvy6B</name>
-        <Point><coordinates>-77.0101008811,38.8892962832,0</coordinates></Point>
+        <Point><coordinates>-77.0101060263,38.8893035136,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>vxh4DeXKZw5E</name>
-        <Point><coordinates>-77.0101940948,38.8899001578,0</coordinates></Point>
+        <Point><coordinates>-77.0102011675,38.88990932,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>wsMftrxX1TM3</name>
-        <Point><coordinates>-77.0069011868,38.8913049935,0</coordinates></Point>
+        <Point><coordinates>-77.0068923967,38.8912987222,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>wsRe9EYoao7V</name>
-        <Point><coordinates>-77.0083981942,38.8898996329,0</coordinates></Point>
+        <Point><coordinates>-77.0083944052,38.8899081417,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>x7HrWSfLcYr7</name>
-        <Point><coordinates>-77.0106030851,38.889895937,0</coordinates></Point>
+        <Point><coordinates>-77.0105937649,38.8899066975,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>yN6bjJ3ztpBm</name>
-        <Point><coordinates>-77.0108028746,38.8895941732,0</coordinates></Point>
+        <Point><coordinates>-77.010809989,38.8896066132,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>yuyarSUu7vjP</name>
-        <Point><coordinates>-77.0103970434,38.8902088695,0</coordinates></Point>
+        <Point><coordinates>-77.0103930979,38.8902031289,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>05wJWPlwYEm2</name>
-        <Point><coordinates>-77.0104915486,38.890098752,0</coordinates></Point>
+        <Point><coordinates>-77.0105070065,38.8900903106,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>0d6xvM4dAiW4</name>
-        <Point><coordinates>-77.0097917954,38.8901922494,0</coordinates></Point>
+        <Point><coordinates>-77.0098068101,38.8901968272,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>1Ta9ZdFfiNrZ</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0105911047,38.8899004491,0</coordinates></Point>
+		<Point><coordinates>-77.0105906217,38.8898968597,0</coordinates></Point>
+		<description>https://youtu.be/1tbD54-iZ4Y</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/1tbD54-iZ4Y" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -4052,49 +4140,50 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>29cZegQUocJb</name>
-        <Point><coordinates>-77.0082062185,38.8901085214,0</coordinates></Point>
+        <Point><coordinates>-77.0082022526,38.8900933288,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>2DzUC8Jvgx4g</name>
-        <Point><coordinates>-77.0095087475,38.8901973624,0</coordinates></Point>
+        <Point><coordinates>-77.0095033097,38.8902041169,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>4BhzQKA2VI0d</name>
-        <Point><coordinates>-77.0104963439,38.8898923571,0</coordinates></Point>
+        <Point><coordinates>-77.0104967085,38.8899048809,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>4lidTEsWzSLx</name>
-        <Point><coordinates>-77.0096956718,38.8900021382,0</coordinates></Point>
+        <Point><coordinates>-77.0097016481,38.8899933384,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>4z3SiPE3gdYo</name>
-        <Point><coordinates>-77.0102904918,38.8900911342,0</coordinates></Point>
+        <Point><coordinates>-77.0103092572,38.8900982549,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>5nYkXwoED2es</name>
-        <Point><coordinates>-77.0103907678,38.8901910529,0</coordinates></Point>
+        <Point><coordinates>-77.0104076076,38.8902097732,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>6VYEdaOOP3hD</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.010399019,38.8895078745,0</coordinates></Point>
+		<Point><coordinates>-77.0104097809,38.889496138,0</coordinates></Point>
+		<description>https://youtu.be/-tYy2VrQugI</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/-tYy2VrQugI" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -4104,28 +4193,29 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>719yrPG5Q7r7</name>
-        <Point><coordinates>-77.0102069803,38.8896074736,0</coordinates></Point>
+        <Point><coordinates>-77.0101988812,38.889591843,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>8ONiSixYGejX</name>
-        <Point><coordinates>-77.0100016529,38.8898018515,0</coordinates></Point>
+        <Point><coordinates>-77.0099956762,38.8898018685,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>8wCMdWEW39Ff</name>
-        <Point><coordinates>-77.0084087556,38.8897959767,0</coordinates></Point>
+        <Point><coordinates>-77.0083940816,38.8897920073,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>AmVOZeAY7tjF</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0107929574,38.8895933062,0</coordinates></Point>
+		<Point><coordinates>-77.0108006968,38.8895960693,0</coordinates></Point>
+		<description>https://youtu.be/KqmBIHdcxr8</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/KqmBIHdcxr8" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -4135,42 +4225,43 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>Dg4C2BcNChXn</name>
-        <Point><coordinates>-77.0087945187,38.8897910457,0</coordinates></Point>
+        <Point><coordinates>-77.0087951133,38.8898060022,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>FH2gzWNmVnUx</name>
-        <Point><coordinates>-77.0102003027,38.8897907681,0</coordinates></Point>
+        <Point><coordinates>-77.0101942882,38.8897941168,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>GW0AjcMLlz1v</name>
-        <Point><coordinates>-77.0097990274,38.8902047461,0</coordinates></Point>
+        <Point><coordinates>-77.0098043305,38.8901939487,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>HhOE7VTVyjIj</name>
-        <Point><coordinates>-77.0098911027,38.8894970982,0</coordinates></Point>
+        <Point><coordinates>-77.0098909736,38.8894910708,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>Hhbv22uc4cZT</name>
-        <Point><coordinates>-77.0105055908,38.8896077825,0</coordinates></Point>
+        <Point><coordinates>-77.0104959003,38.8896062796,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>HpFLIM31gIU3</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0103084396,38.8896051124,0</coordinates></Point>
+		<Point><coordinates>-77.010301632,38.8895964236,0</coordinates></Point>
+		<description>https://youtu.be/wB6n57ccZLY</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/wB6n57ccZLY" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -4180,7 +4271,8 @@
 	      <Placemark>
 		<name>IlhIaEMwpl6i</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0105010149,38.889604442,0</coordinates></Point>
+		<Point><coordinates>-77.010506905,38.8896054226,0</coordinates></Point>
+		<description>https://youtu.be/8NAYisA3MSA</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/8NAYisA3MSA" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -4190,7 +4282,8 @@
 	      <Placemark>
 		<name>JFBcTjyx726j</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0073001059,38.8908041611,0</coordinates></Point>
+		<Point><coordinates>-77.0073021038,38.8907916239,0</coordinates></Point>
+		<description>https://youtu.be/MEHKL9uK3Ws</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/MEHKL9uK3Ws" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -4200,21 +4293,22 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>KWcmmaWP9GGe</name>
-        <Point><coordinates>-77.009407535,38.8902930079,0</coordinates></Point>
+        <Point><coordinates>-77.0094039673,38.8902955098,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>KbHJ1yC6Suub</name>
-        <Point><coordinates>-77.0106044412,38.8910075643,0</coordinates></Point>
+        <Point><coordinates>-77.0105911531,38.891006549,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>NZ0P8ssAGysd</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0100012805,38.8900047233,0</coordinates></Point>
+		<Point><coordinates>-77.0099992655,38.890004432,0</coordinates></Point>
+		<description>https://youtu.be/wq8K6_txKHM</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/wq8K6_txKHM" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -4224,14 +4318,15 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>OVRHonUii72H</name>
-        <Point><coordinates>-77.009891828,38.8901099846,0</coordinates></Point>
+        <Point><coordinates>-77.0099001763,38.8901007101,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>QhHQcvLey9wa</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.010301742,38.8900019433,0</coordinates></Point>
+		<Point><coordinates>-77.010291756,38.8900012676,0</coordinates></Point>
+		<description>https://youtu.be/X360LmnLTCA</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/X360LmnLTCA" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -4241,259 +4336,260 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>Ufqzju5HCfKn</name>
-        <Point><coordinates>-77.0104041891,38.8898924609,0</coordinates></Point>
+        <Point><coordinates>-77.0104026503,38.8898905419,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>V3CaS3mUGMr4</name>
-        <Point><coordinates>-77.0105056662,38.8897980243,0</coordinates></Point>
+        <Point><coordinates>-77.0104944322,38.8898069618,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>VJKKCQ9W822I</name>
-        <Point><coordinates>-77.0106020382,38.8901032428,0</coordinates></Point>
+        <Point><coordinates>-77.0105956288,38.890092371,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>Vb5HCAXswehl</name>
-        <Point><coordinates>-77.0077914001,38.8897917574,0</coordinates></Point>
+        <Point><coordinates>-77.0078069406,38.8897993818,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>W5gPVCgjsxFj</name>
-        <Point><coordinates>-77.0076957154,38.8913080213,0</coordinates></Point>
+        <Point><coordinates>-77.0076965442,38.8912922219,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>XFFtlgdmXlYT</name>
-        <Point><coordinates>-77.0106030329,38.889406004,0</coordinates></Point>
+        <Point><coordinates>-77.0105930453,38.8893906084,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>XKgX6pD5MswJ</name>
-        <Point><coordinates>-77.0103044929,38.890105753,0</coordinates></Point>
+        <Point><coordinates>-77.0103056801,38.8900907405,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>a6b4E7EOuBfs</name>
-        <Point><coordinates>-77.0104971171,38.8897986774,0</coordinates></Point>
+        <Point><coordinates>-77.0105004347,38.8897935545,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>a8lp9oooOT3m</name>
-        <Point><coordinates>-77.0080929112,38.88999112,0</coordinates></Point>
+        <Point><coordinates>-77.0081072365,38.8899945148,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>aliZGu3YsI5q</name>
-        <Point><coordinates>-77.0104936127,38.889494544,0</coordinates></Point>
+        <Point><coordinates>-77.0104942719,38.8895021327,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>bJg3vL68MwQd</name>
-        <Point><coordinates>-77.010592208,38.8896829338,0</coordinates></Point>
+        <Point><coordinates>-77.0105792087,38.889695108,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>bVPcTXidhYjP</name>
-        <Point><coordinates>-77.0102054703,38.8895977532,0</coordinates></Point>
+        <Point><coordinates>-77.0102007932,38.8895993704,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>dbcG4DKbcaiW</name>
-        <Point><coordinates>-77.0101087567,38.8900905571,0</coordinates></Point>
+        <Point><coordinates>-77.0100918609,38.8900955165,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>dltfIbXGM5gi</name>
-        <Point><coordinates>-77.0089981638,38.8909077279,0</coordinates></Point>
+        <Point><coordinates>-77.0089935046,38.8909081781,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>dnaYFpHBSu5k</name>
-        <Point><coordinates>-77.0105022675,38.8889003236,0</coordinates></Point>
+        <Point><coordinates>-77.0104990908,38.8888919433,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>dyxOuy25PXw6</name>
-        <Point><coordinates>-77.0097951173,38.89000781,0</coordinates></Point>
+        <Point><coordinates>-77.0098013305,38.8900015872,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>e47lIeSz7r45</name>
-        <Point><coordinates>-77.0107016725,38.8900016975,0</coordinates></Point>
+        <Point><coordinates>-77.010694941,38.8899953885,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>gy0CVMmIIpqp</name>
-        <Point><coordinates>-77.0099922646,38.8899976589,0</coordinates></Point>
+        <Point><coordinates>-77.010003765,38.8900090236,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>i3qHS7lofs5h</name>
-        <Point><coordinates>-77.0107073091,38.8900076533,0</coordinates></Point>
+        <Point><coordinates>-77.0107024994,38.8899967284,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>kNYrK71L6rcO</name>
-        <Point><coordinates>-77.0095025486,38.8909949332,0</coordinates></Point>
+        <Point><coordinates>-77.0095083934,38.8909964832,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>kr6uD1TWjlQv</name>
-        <Point><coordinates>-77.0102922625,38.890100268,0</coordinates></Point>
+        <Point><coordinates>-77.0102911775,38.8901010623,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>lbliFG4WqmNj</name>
-        <Point><coordinates>-77.0100082097,38.8900920989,0</coordinates></Point>
+        <Point><coordinates>-77.0100056634,38.8900911113,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>li21IY7thNbw</name>
-        <Point><coordinates>-77.0104980052,38.8898096866,0</coordinates></Point>
+        <Point><coordinates>-77.0104904231,38.889797522,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>lxN8ne0vbVD9</name>
-        <Point><coordinates>-77.010399532,38.8904909093,0</coordinates></Point>
+        <Point><coordinates>-77.0104000415,38.8905000149,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>mtR54fIOsU8Y</name>
-        <Point><coordinates>-77.007404058,38.8889939188,0</coordinates></Point>
+        <Point><coordinates>-77.0073922777,38.8890055049,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>mwt1iRwgWYqy</name>
-        <Point><coordinates>-77.0082910442,38.8898980416,0</coordinates></Point>
+        <Point><coordinates>-77.0083012171,38.8899068276,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>naDQiKfDfv7G</name>
-        <Point><coordinates>-77.0100902533,38.8897974338,0</coordinates></Point>
+        <Point><coordinates>-77.0101069371,38.8897982543,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>ojGUhvfqsFA9</name>
-        <Point><coordinates>-77.0078992544,38.8898062254,0</coordinates></Point>
+        <Point><coordinates>-77.0078905078,38.8898059448,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>onVXm7gZrnOG</name>
-        <Point><coordinates>-77.0097080308,38.8903969487,0</coordinates></Point>
+        <Point><coordinates>-77.0097069293,38.8904064694,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>qNnf3hngF2HM</name>
-        <Point><coordinates>-77.007206443,38.8902074104,0</coordinates></Point>
+        <Point><coordinates>-77.0071938787,38.8901901991,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>rrdaPC4SVNDT</name>
-        <Point><coordinates>-77.0100022059,38.8900057519,0</coordinates></Point>
+        <Point><coordinates>-77.0099901893,38.8900049261,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>vh3IENhXTDp7</name>
-        <Point><coordinates>-77.0074020321,38.8898045322,0</coordinates></Point>
+        <Point><coordinates>-77.0073900969,38.8897982049,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>w0LzlCqerE1N</name>
-        <Point><coordinates>-77.0099936748,38.8898917857,0</coordinates></Point>
+        <Point><coordinates>-77.0099943167,38.8898956644,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>xDvtEJtl0RsY</name>
-        <Point><coordinates>-77.0088052425,38.8903934433,0</coordinates></Point>
+        <Point><coordinates>-77.0087998379,38.8904003411,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>xSgtD3jz8mUZ</name>
-        <Point><coordinates>-77.0089927716,38.8908071209,0</coordinates></Point>
+        <Point><coordinates>-77.0089935865,38.890808625,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>y4rBTCqek9YY</name>
-        <Point><coordinates>-77.0097033753,38.8899903523,0</coordinates></Point>
+        <Point><coordinates>-77.0096948564,38.8899960487,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>0gEXueOMmwi8</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0104099081,38.8900026706,0</coordinates></Point>
+		<Point><coordinates>-77.0103959051,38.8900016238,0</coordinates></Point>
+		<description>https://youtu.be/S25F1Ag7KD4</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/S25F1Ag7KD4" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -4503,21 +4599,22 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>67A81y8heYuc</name>
-        <Point><coordinates>-77.0100009127,38.8899947723,0</coordinates></Point>
+        <Point><coordinates>-77.0100093521,38.8899954766,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>69IJDSk6CAv4</name>
-        <Point><coordinates>-77.0104977423,38.8901049511,0</coordinates></Point>
+        <Point><coordinates>-77.0104946836,38.8901094623,0</coordinates></Point>
       </Placemark>
 	
 
 	      <Placemark>
 		<name>D1nBUG3Qu3sw</name>
 		<styleUrl>#rs</styleUrl>
-		<Point><coordinates>-77.0101921146,38.8895980403,0</coordinates></Point>
+		<Point><coordinates>-77.0102094737,38.8895937088,0</coordinates></Point>
+		<description>https://youtu.be/3oZCiG-14pY</description>
 		<ExtendedData><Data name="video">
 		  <value><![CDATA[<iframe width="800" height="600" src="https://youtu.be/3oZCiG-14pY" frameborder="0" allowfullscreen></iframe><br><br>]]></value>
 		</Data></ExtendedData>
@@ -4527,63 +4624,63 @@
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>JKrCxU305gfZ</name>
-        <Point><coordinates>-77.0081957795,38.8905954237,0</coordinates></Point>
+        <Point><coordinates>-77.0081969966,38.89060571,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>R0dVgBQd3c3U</name>
-        <Point><coordinates>-77.0105835505,38.8896949431,0</coordinates></Point>
+        <Point><coordinates>-77.0105848316,38.8896825522,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>UI36bW4vP0E0</name>
-        <Point><coordinates>-77.0103004267,38.8897051817,0</coordinates></Point>
+        <Point><coordinates>-77.0102966163,38.8897054457,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>Wvt5X1vEtjgO</name>
-        <Point><coordinates>-77.0098080455,38.889606024,0</coordinates></Point>
+        <Point><coordinates>-77.0097901431,38.8896011534,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>niJAyVlPCRZJ</name>
-        <Point><coordinates>-77.0100934754,38.8895924521,0</coordinates></Point>
+        <Point><coordinates>-77.0101044501,38.8895900371,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>seke9fBiFTyF</name>
-        <Point><coordinates>-77.0104945861,38.8896971433,0</coordinates></Point>
+        <Point><coordinates>-77.0105014609,38.8896983555,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>t4AqEOluEwK2</name>
-        <Point><coordinates>-77.0087017548,38.8889974334,0</coordinates></Point>
+        <Point><coordinates>-77.0087011801,38.8889979998,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>uAKQeDMoSL0c</name>
-        <Point><coordinates>-77.0070918982,38.8899006453,0</coordinates></Point>
+        <Point><coordinates>-77.0071041701,38.8898912426,0</coordinates></Point>
       </Placemark>
 	
 
       <Placemark>
 	<styleUrl>#ys</styleUrl>
         <name>udvpnvQ3x4To</name>
-        <Point><coordinates>-77.0099984509,38.8896984497,0</coordinates></Point>
+        <Point><coordinates>-77.0100077269,38.8896903796,0</coordinates></Point>
       </Placemark>
 	
 
