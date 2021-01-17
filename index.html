@@ -1,115 +1,200 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
-    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+    <meta charset="utf-8" />
+    <meta
+      property="og:image"
+      content="https://thepatr10t.github.io/yall-Qaeda/yqs.png"
+    />
+    <meta property="og:title" content="US Capitol Attack Video Map" />
+    <meta property="og:description" content="US Capitol Attack Video Map" />
+    <meta property="og:image:width" content="1600" />
+    <meta property="og:image:height" content="1200" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="US Capitol Attack Video Map" />
+    <meta
+      name="twitter:url"
+      content="https://thepatr10t.github.io/yall-Qaeda/"
+    />
+    <meta
+      name="twitter:image"
+      content="https://thepatr10t.github.io/yall-Qaeda/yqs.png"
+    />
+    <meta name="twitter:description" content="US Capitol Attack Video Map" />
+    <title>US Capitol Attack Video Map</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.3/css/bootstrap.min.css"
+      integrity="sha512-oc9+XSs1H243/FRN9Rw62Fn8EtxjEYWHXRvjS43YtueEewbS6ObfXcJNyohjHqVKFPoXXUxwc+q1K7Dee6vv9g=="
+      crossorigin="anonymous"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDYGNf9tCwZHFd9R9jCz-1tEUvlJawuGWM"></script>
+    <script type="text/javascript">
+      google.maps.event.addDomListener(window, 'load', init)
 
-    <meta property="og:image" content="https://thepatr10t.github.io/yall-Qaeda/yqs.png">
-    <meta property="og:title" content="Mapping videos of the capitol seige">
-    <meta property="og:description" content="Mapping videos during the capitol seige">
-    <meta property="og:image:width" content="1600">
-    <meta property="og:image:height" content="1200">
+      function init() {
+        var location = new google.maps.LatLng(38.889805, -77.009056)
 
-
-    <meta name="twitter:card" content="summary">
-    <meta name="twitter:title" content="Mapping videos of the capitol seige">
-    <meta name="twitter:url" content="https://thepatr10t.github.io/yall-Qaeda/">
-    <meta name="twitter:image" content="https://thepatr10t.github.io/yall-Qaeda/yqs.png">
-    <meta name="twitter:description" content="Mapping videos during the capitol seige">
-
-    <title>Mapping videos of the capitol seige</title>
-    <style>
-      html, body {
-        height: 90%;
-        padding: 0;
-        margin: 0;
-	width: 100%;
+        var mapOptions = {
+          zoom: 15,
+          fullscreenControl: false,
+          streetViewControl: false,
+          mapTypeControlOptions: {
+            style: google.maps.MapTypeControlStyle.DROPDOWN_MENU,
+          },
+          center: location,
+          styles: [
+            {
+              featureType: 'administrative',
+              elementType: 'all',
+              stylers: [{ saturation: '-100' }],
+            },
+            {
+              featureType: 'administrative.province',
+              elementType: 'all',
+              stylers: [{ visibility: 'off' }],
+            },
+            {
+              featureType: 'landscape',
+              elementType: 'all',
+              stylers: [
+                { saturation: -100 },
+                { lightness: 65 },
+                { visibility: 'on' },
+              ],
+            },
+            {
+              featureType: 'poi',
+              elementType: 'all',
+              stylers: [
+                { saturation: -100 },
+                { lightness: '50' },
+                { visibility: 'simplified' },
+              ],
+            },
+            {
+              featureType: 'road',
+              elementType: 'all',
+              stylers: [{ saturation: '-100' }],
+            },
+            {
+              featureType: 'road.highway',
+              elementType: 'all',
+              stylers: [{ visibility: 'simplified' }],
+            },
+            {
+              featureType: 'road.arterial',
+              elementType: 'all',
+              stylers: [{ lightness: '30' }],
+            },
+            {
+              featureType: 'road.local',
+              elementType: 'all',
+              stylers: [{ lightness: '40' }],
+            },
+            {
+              featureType: 'transit',
+              elementType: 'all',
+              stylers: [{ saturation: -100 }, { visibility: 'simplified' }],
+            },
+            {
+              featureType: 'water',
+              elementType: 'geometry',
+              stylers: [
+                { hue: '#ffff00' },
+                { lightness: -25 },
+                { saturation: -97 },
+              ],
+            },
+            {
+              featureType: 'water',
+              elementType: 'labels',
+              stylers: [{ lightness: -25 }, { saturation: -100 }],
+            },
+          ],
         }
-      #map {
-       height: 100%;
-       width: 50%;
-       overflow: hidden;
-       float: left;
-       border: thin solid #333;
-       }
-      #capture {
-       height: 100%;
-       width: 45%;
-       overflow: hidden;
-       float: left;
-       background-color: #ECECFB;
-       border: thin solid #333;
-       border-left: none;
-       }
-
-	#c {
-		width: 100%;
-		margin: 0 auto;
-		height: 90%;
-	}
-
-    </style>
-  </head>
-  <body>
-
-<center>
-<h3>Mapping the videos of the Capitol building attack</h3>
-</center>
-<b><h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hint : click the red markers! New ones are being uploaded slowly.... <a target=_blank href='https://github.com/ThePatr10t/yall-Qaeda'>Feature requests here</a></h2></b>
-
-<div id="c">
-	<div id="map"></div>
-	<div id="capture"></div>
-	<br>
-</div>
-<h2><a href="https://twitter.com/patr10tic" target=_BLANK>Built by Patr10tic</a></h2>
-
-    <script>
-      var map;
-      var src = 'https://thepatr10t.github.io/yall-Qaeda/DC27.kml';
-
-      function initMap() {
-        map = new google.maps.Map(document.getElementById('map'), {
-          center: new google.maps.LatLng(38.8935128, -77.1546603),
-          zoom: 2,
-          mapTypeId: 'satellite'
-        });
+        var mapElement = document.getElementById('map')
+        var map = new google.maps.Map(mapElement, mapOptions)
+        var src = 'https://thepatr10t.github.io/yall-Qaeda/DC27.kml'
 
         var kmlLayer = new google.maps.KmlLayer(src, {
           suppressInfoWindows: true,
-          preserveViewport: false,
-          map: map
-        });
-        kmlLayer.addListener('click', function(event) {
-		var content;// = event.featureData.infoWindowHtml;
-		var content = event.featureData.name;
+          preserveViewport: true,
+          map: map,
+        })
 
-		if('snippet' in event.featureData){
-			var s = event.featureData.snippet;
-			if(s.includes("dailymotion")){
-				content = '<iframe frameborder="0" width="640" height="360" src="'+s+'?queue-enable=false"; allowfullscreen allow="autoplay"></iframe>';
-			}
-			if(s.includes("youtube")){
-				content = '<iframe width="800" height="600" src="'+s+'" frameborder="0" allowfullscreen></iframe>'
-			}
-		}
-		console.log(content);
+        kmlLayer.addListener('click', function (event) {
+          var content = event.featureData.name
 
-		console.log(event);
-		//var content = '<iframe frameborder="0" width="640" height="360" src="https://www.dailymotion.com/embed/video/x7ynacd"; allowfullscreen allow="autoplay"></iframe>'
-		var testimonial = document.getElementById('capture');
-		testimonial.innerHTML = content;
-        });
+          if ('snippet' in event.featureData) {
+            var s = event.featureData.snippet
+            if (s.includes('dailymotion')) {
+              content =
+                '<iframe frameborder="0" class="video" src="' +
+                s +
+                '?queue-enable=false"; allowfullscreen allow="autoplay"></iframe>'
+            }
+            if (s.includes('youtube')) {
+              content =
+                '<iframe class="video" src="' +
+                s +
+                '" frameborder="0" allowfullscreen></iframe>'
+            }
+          }
+          console.log(content)
+          console.log(event)
+
+          var testimonial = document.getElementById('video')
+          testimonial.innerHTML = content
+        })
       }
     </script>
-
-
-
-
-    <script defer
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAAFYwkWgVLa5lKgfh0OHqWS8PiXGTfJf8&callback=initMap">
-    </script>
-
-
+  </head>
+  <body class="site">
+    <div class="container site-content">
+      <div class="media">
+        <img class="mr-3" src="capitol-dome.png" alt="US Capitol Dome" />
+        <div class="media-body">
+          <h4 class="mt-0">US Capitol Attack Video Map</h4>
+          This is a mapping of the videos taken during the violent attack on the
+          US Capitol on January 6th, 2021.
+        </div>
+      </div>
+      <div class="card mt-3">
+        <div class="map" id="map"></div>
+      </div>
+      <div class="card mt-3 mb-3">
+        <div class="video-container">
+          <div id="video">
+            <p class="info text-muted">
+              Click on the
+              <span class="badge badge-danger">red</span> markers to select a
+              video to view. The
+              <span class="badge badge-warning">yellow</span> markers indicate
+              videos that have not been uploaded yet. New videos are being added
+              slowly, so be sure to check back often!
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <footer>
+      <div class="container">
+        <p class="text-center mt-2">
+          <a target="_blank" href="https://github.com/ThePatr10t/yall-Qaeda"
+            ><i class="fab fa-github"></i> Submit a feature request</a
+          >
+          <br />
+          Built with <i class="fas fa-heart-broken"></i> by
+          <a href="https://twitter.com/patr10tic" target="_BLANK">Patr10tic</a>
+        </p>
+      </div>
+    </footer>
   </body>
 </html>
