@@ -141,11 +141,16 @@
                 s +
                 '?queue-enable=false"; allowfullscreen allow="autoplay"></iframe>'
             }
+            if (s.includes('cloudfront')) {
+              s='https://'+s;
+              content =
+                '<video autoplay onloadedmetadata="this.muted=!0" class="video lazy horizontal" preload="auto" playsinline="" muted="" loop="" controls="" width="1920" height="1080" type="video/mp4" data-src="'+s+'" src="'+s+'"></video>'
+            }
             if (s.includes('youtube')) {
               content =
                 '<iframe class="video" src="' +
                 s +
-                '" frameborder="0" allowfullscreen></iframe>'
+                '?autoplay=1" frameborder="0" allow="autoplay" allowfullscreen></iframe>'
             }
           }
           console.log(content)
@@ -171,6 +176,9 @@
 
 
       </div>
+
+
+
 
 
 
