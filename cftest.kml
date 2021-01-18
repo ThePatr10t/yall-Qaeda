@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Parler</name>
+    <open>1</open>
+
+
+
+
+
+    <Style id="ys">
+      <IconStyle>
+<scale>0.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/ylw-blank-lv.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+
+
+    <Style id="rs">
+      <IconStyle>
+<scale>0.6</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/red-circle-lv.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text>$[video]</text>
+      </BalloonStyle>
+    </Style>
+
+
+	      <Placemark>
+		<name>0RkqluQmLWCt</name>
+		<styleUrl>#rs</styleUrl>
+		<Point><coordinates>-77.0082720447,38.8907462404,0</coordinates></Point>
+		<description>https://d2hxwnssq7ss7g.cloudfront.net/EFc5cWENHs5F_cvt.mp4</description>
+	      </Placemark>
+		
+	
+
+  </Document>
+</kml>
+
+
