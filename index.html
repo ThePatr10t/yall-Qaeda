@@ -38,6 +38,9 @@
     <script type="text/javascript">
       google.maps.event.addDomListener(window, 'load', init)
 
+
+
+
       function init() {
         var location = new google.maps.LatLng(38.889805, -77.009056)
 
@@ -122,13 +125,31 @@
         }
         var mapElement = document.getElementById('map')
         var map = new google.maps.Map(mapElement, mapOptions)
-        var src = 'https://thepatr10t.github.io/yall-Qaeda/DC27.kml'
+        var src = 'https://thepatr10t.github.io/yall-Qaeda/DCalt5.kml'
 
         var kmlLayer = new google.maps.KmlLayer(src, {
           suppressInfoWindows: true,
           preserveViewport: true,
           map: map,
         })
+
+
+
+var maxZoomService = new google.maps.MaxZoomService();
+function showMaxZoom(e) {
+  maxZoomService.getMaxZoomAtLatLng(e.latLng, (result) => {
+    if (result.status !== "OK") {
+      console.log("Error in MaxZoomService");
+    } else {
+      console.log(
+        "The maximum zoom at this location is: " + result.zoom
+      );
+    }
+    //infoWindow.setPosition(e.latLng);
+    //infoWindow.open(map);
+  });
+}
+map.addListener("click", showMaxZoom);
 
         kmlLayer.addListener('click', function (event) {
           var content = event.featureData.name
@@ -144,7 +165,7 @@
             if (s.includes('cloudfront')) {
               s='https://'+s;
               content =
-                '<video autoplay onloadedmetadata="this.muted=!0" class="video lazy horizontal" preload="auto" playsinline="" muted="" loop="" controls="" width="1920" height="1080" type="video/mp4" data-src="'+s+'" src="'+s+'"></video>'
+                '<video  class="video lazy horizontal"  loop="" controls="" width="1920" height="1080" type="video/mp4" data-src="'+s+'" src="'+s+'"></video>'
             }
             if (s.includes('youtube')) {
               content =
@@ -160,6 +181,8 @@
           testimonial.innerHTML = content
         })
       }
+
+
     </script>
   </head>
   <body class="site">
@@ -172,8 +195,11 @@
           <h4 class="mt-0">US Capitol Attack Video Map</h4>
           This is a mapping of the videos taken during the violent attack on the
           US Capitol on January 6th, 2021.
-        </div>
+	<br/>
+Want a timeline view? Check out this remarkable
+          <a target="_blank" href="https://projects.propublica.org/parler-capitol-videos/"> tool built by ProPublica</a>
 
+        </div>
 
       </div>
 
@@ -192,10 +218,15 @@
         <div class="video-container">
           <div id="video">
             <p class="info text-muted">
-              Click on the
-              <span class="badge badge-danger">red</span> markers to select a
-              video to view. The
-              <span class="badge badge-warning">yellow</span> markers indicate
+              Click on the colored 
+              (
+		<span class="badge badge-danger">*</span>
+		<span class="badge badge-primary">*</span>
+		<span class="badge badge-success">*</span>
+		<span class="badge badge-warning">*</span>
+		) markers to select a
+              video to view. 4 colors are used to make the videos easier to tell apart. The
+              <span class="badge badge-light">white</span> markers indicate
               videos that have not been uploaded yet. New videos are being added
               slowly, so be sure to check back often!
             </p>

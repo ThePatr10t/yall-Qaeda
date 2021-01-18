@@ -4,15 +4,20 @@ fh=open('gpsPositions','r')
 
 import random
 
+# http://tancro.e-central.tv/grandmaster/markers/google-icons/
+
 # https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png
 # http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png
 # http://maps.google.com/mapfiles/kml/paddle/red-circle-lv.png
 
 
+
 from zlib import crc32
 
 def bytes_to_float(b):
-	return float(crc32(b) & 0xffffffff) / 2**32
+	r = float(crc32(b) & 0xffffffff) / 2**32
+	r = r*2 - 1
+	return r
 
 def str_to_float(s, encoding="utf-8"):
 	return bytes_to_float(s.encode(encoding))
@@ -29,21 +34,23 @@ print '''<?xml version="1.0" encoding="UTF-8"?>
 
 
 
-    <Style id="ys">
+    <Style id="sd">
       <IconStyle>
 <scale>0.2</scale>
         <Icon>
-          <href>http://maps.google.com/mapfiles/kml/paddle/ylw-blank-lv.png</href>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
         </Icon>
       </IconStyle>
     </Style>
 
 
+
+
     <Style id="rs">
       <IconStyle>
-<scale>0.6</scale>
+<scale>0.5</scale>
         <Icon>
-          <href>http://maps.google.com/mapfiles/kml/paddle/red-circle-lv.png</href>
+          <href>http://maps.google.com/mapfiles/kml/paddle/red-stars-lv.png</href>
         </Icon>
       </IconStyle>
       <BalloonStyle>
@@ -51,7 +58,41 @@ print '''<?xml version="1.0" encoding="UTF-8"?>
       </BalloonStyle>
     </Style>
 
+    <Style id="bs">
+      <IconStyle>
+<scale>0.5</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/blu-stars-lv.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text>$[video]</text>
+      </BalloonStyle>
+    </Style>
 
+    <Style id="gs">
+      <IconStyle>
+<scale>0.5</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/grn-stars-lv.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text>$[video]</text>
+      </BalloonStyle>
+    </Style>
+
+    <Style id="ys">
+      <IconStyle>
+<scale>0.5</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/ylw-stars-lv.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text>$[video]</text>
+      </BalloonStyle>
+    </Style>
 
 '''
 
@@ -100,18 +141,27 @@ for l in fh.readlines():
 	if lonD > dcCoords[1]+margin : continue
 
 	# these use a cryptographic hash function to reproducibly move a point slightly, preventing stacking on the map
-	latD += str_to_float(key+'lat')*0.00005
-	lonD += str_to_float(key+'lon')*0.00005
+	latR = str_to_float(key)*0.00008
+	lonR = str_to_float(key[::-1])*0.00008
+
+	latD += latR
+	lonD += lonR
 
 	p = '''
       <Placemark>
-	<styleUrl>#ys</styleUrl>
+	<styleUrl>#sd</styleUrl>
         <name>%s</name>
         <Point><coordinates>%s,%s,0</coordinates></Point>
       </Placemark>
 	''' % (key, lonD, latD)
 
 	#p=''
+
+	if latR<0 and lonR<0: style='rs'
+	if latR<0 and lonR>0: style='ys'
+
+	if latR>0 and lonR<0: style='gs'
+	if latR>0 and lonR>0: style='bs'
 
 	if key in vidURLs:
 		url = vidURLs[key]
@@ -138,11 +188,11 @@ for l in fh.readlines():
 		p = '''
 	      <Placemark>
 		<name>%s</name>
-		<styleUrl>#rs</styleUrl>
+		<styleUrl>#%s</styleUrl>
 		<Point><coordinates>%s,%s,0</coordinates></Point>
 		<description>%s</description>
 	      </Placemark>
-		''' % (key, lonD, latD, url)
+		''' % (key, style, lonD, latD, url)
 
 
 
