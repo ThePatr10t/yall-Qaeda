@@ -60,13 +60,18 @@ dcCoords = 38.88974791,-77.00883112
 margin=0.01
 
 vidURLs = {}
-with open('uploaded', 'r') as up:
-	uploaded = [l.strip() for l in up.readlines()]
-	uploaded = [l for l in uploaded if len(l)]
-	for l in uploaded:
-		try: k, v = l.split('\t')
-		except: continue
-		vidURLs[k]=v
+
+def loadURLs(fileName):
+	with open(fileName, 'r') as up:
+		uploaded = [l.strip() for l in up.readlines()]
+		uploaded = [l for l in uploaded if len(l)]
+		for l in uploaded:
+			try: k, v = l.split('\t')
+			except: continue
+			vidURLs[k]=v
+
+loadURLs('uploaded-contrib')
+loadURLs('uploaded')
 		
 #print vidURLs
 
