@@ -42,6 +42,7 @@
         var location = new google.maps.LatLng(38.889805, -77.009056)
 
         var mapOptions = {
+          mapTypeId: 'satellite',
           zoom: 15,
           fullscreenControl: false,
           streetViewControl: false,
@@ -157,7 +158,9 @@
     </script>
   </head>
   <body class="site">
-    <div class="container site-content">
+    <div class="container-fluid site-content">
+
+
       <div class="media">
         <img class="mr-3" src="capitol-dome.png" alt="US Capitol Dome" />
         <div class="media-body">
@@ -165,11 +168,19 @@
           This is a mapping of the videos taken during the violent attack on the
           US Capitol on January 6th, 2021.
         </div>
+
+
       </div>
-      <div class="card mt-3">
+
+
+
+<div class="row header">
+
+      <div class="col-md-6 col-sm-8 col-xs-8 card mt-3">
         <div class="map" id="map"></div>
       </div>
-      <div class="card mt-3 mb-3">
+
+      <div class="col-md-6 col-sm-8 col-xs-8 card mt-3 mb-3">
         <div class="video-container">
           <div id="video">
             <p class="info text-muted">
@@ -180,10 +191,15 @@
               videos that have not been uploaded yet. New videos are being added
               slowly, so be sure to check back often!
             </p>
+
           </div>
         </div>
       </div>
+
+</div>
+
     </div>
+
     <footer>
       <div class="container">
         <p class="text-center mt-2">
