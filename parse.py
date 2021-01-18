@@ -57,7 +57,7 @@ print '''<?xml version="1.0" encoding="UTF-8"?>
 
 
 dcCoords = 38.88974791,-77.00883112
-margin=0.01
+margin=0.04
 
 vidURLs = {}
 
@@ -70,6 +70,7 @@ def loadURLs(fileName):
 			except: continue
 			vidURLs[k]=v
 
+loadURLs('uploaded-alt')
 loadURLs('uploaded-contrib')
 loadURLs('uploaded')
 		
