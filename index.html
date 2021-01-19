@@ -152,9 +152,13 @@ function showMaxZoom(e) {
 map.addListener("click", showMaxZoom);
 
         kmlLayer.addListener('click', function (event) {
+          if ('name' in event.featureData) {
+          document.getElementById('name').innerHTML=event.featureData.name;
+	  }
           var content = event.featureData.name
 
           if ('snippet' in event.featureData) {
+
             var s = event.featureData.snippet
             if (s.includes('dailymotion')) {
               content =
@@ -215,6 +219,7 @@ Want a timeline view? Check out this remarkable
       </div>
 
       <div class="col-md-6 col-sm-8 col-xs-8 card mt-3 mb-3">
+	<p id='name'></p>
         <div class="video-container">
           <div id="video">
             <p class="info text-muted">
