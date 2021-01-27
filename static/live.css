@@ -1,0 +1,122 @@
+  html, body {
+    width: 97% !important;
+    height: 97% !important;
+    max-height: 97% !important;
+    max-width: 97% !important;
+  }
+
+  body {
+    /*overflow: hidden;*/
+  }
+
+  /* FIXME - no element with this ID yet */
+  #resultsTable {
+    /*height: 97%;*/
+    /*max-height: 90% !important;*/
+
+    width: 97%;
+    max-width: 99% !important;
+
+
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+
+  #pckry {
+    max-width: 50% !important;
+  }
+
+  #dropBox {
+    width: 25% !important;
+  }
+
+
+
+	#embedding {
+		overflow: hidden;
+		height: 75%;
+		margin-left: 10%;
+	}
+
+	#embedding img {
+		margin-top: -50px;
+		max-height: 100%;
+		width: auto;
+	}
+
+
+
+
+
+  .hitDiv {
+    width: 0%;
+  }
+
+  .linked {
+    border: 2px solid blue;
+  }
+
+  #hitPane {
+    overflow-y: hidden;
+    width: 25% !important;
+    height: 100%;
+  }
+
+  #hitList {
+    overflow-y: scroll;
+    height: 100%;
+  }
+
+  #vidPane {
+    background-color: #dedede;
+    /*border: solid 3px orange;*/
+    height: 100%;
+    width: 100%;
+    max-width: 99% !important;
+    max-height: 75% !important;
+  }
+
+  video {
+    max-height: 99% !important;
+    max-width: 99% !important;
+  }
+
+	#resultsRow {
+		height: 100%;
+	}
+
+
+html, body {
+    height: 100%;
+}
+
+.fill-height {
+    min-height: 100%;
+    height:auto !important; /* cross-browser */
+    height: 100%; /* cross-browser */
+}
+
+#vidInfo {
+	border: 2px solid green;
+	position: relative;
+	float: right;
+	right: 0px;
+	top: 0px;
+	width: 30%;
+}
+
+.map {
+  height: 100%;
+  width: 100%;
+}
+
+table {
+	border-collapse: collapse !important;
+}
+
+td {
+	padding: 0 !important;
+	margin: 0 !important;
+}
+
