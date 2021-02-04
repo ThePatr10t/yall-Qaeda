@@ -113,6 +113,7 @@ def loadURLs(fileName):
 
 loadURLs('uploaded-alt')
 loadURLs('uploaded-contrib')
+loadURLs('uploaded-s3')
 loadURLs('uploaded')
 		
 #print vidURLs
