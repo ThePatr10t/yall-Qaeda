@@ -42,6 +42,25 @@
 
 
 
+function loadJSON(path, success, error)
+{
+    var xhr = new XMLHttpRequest();
+    xhr.onreadystatechange = function()
+    {
+        if (xhr.readyState === XMLHttpRequest.DONE) {
+            if (xhr.status === 200) {
+                if (success)
+                    success(JSON.parse(xhr.responseText));
+            } else {
+                if (error)
+                    error(xhr);
+            }
+        }
+    };
+    xhr.open("GET", path, true);
+    xhr.send();
+}
+
 
       function init() {
         var location = new google.maps.LatLng(38.889805, -77.009056)
@@ -180,8 +199,14 @@ map.addListener("click", showMaxZoom);
                 '?autoplay=1" frameborder="0" allow="autoplay" allowfullscreen></iframe>'
             }
           }
-          console.log(content)
           console.log(event)
+          url='https://thepatr10t.github.io/yall-Qaeda/metadata/meta-'+event.featureData['name']+'.json';
+
+loadJSON(url,
+         function(data) { console.log(data[0]); },
+         function(xhr) { console.error(xhr); }
+);
+
 
           var testimonial = document.getElementById('video')
           testimonial.innerHTML = content
